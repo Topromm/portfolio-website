@@ -100,7 +100,6 @@ function LandingPage() {
     </header>
 
     <section className="hero-container">
-      <img src={faceSrc} alt="Headshot" className="hero-face"/>
       <div className="hero-content">
         <h1 className="hero-header">Topias Romppanen</h1>
         <p className="hero-paragraph">
@@ -126,6 +125,7 @@ function LandingPage() {
           <span>Contact me</span>
         </a>
       </div>
+      <img src={faceSrc} alt="Headshot" className="hero-face"/>
     </section>
 
     <section className="page-content1">
