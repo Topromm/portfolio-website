@@ -53,12 +53,7 @@ function LandingPage() {
       <nav>
         <ul className="navbar">
           <div className="mode-button" id="mode-button">
-            <img
-              src="https://i.imgur.com/Li8FKFW.png"
-              alt="Moon"
-              className="icon"
-              id="moon-icon"
-            />
+            <img src="https://i.imgur.com/Li8FKFW.png" alt="Moon" className="icon" id="moon-icon"/>
           </div>
           <li className="home-button">
             <a href="/">Home</a>

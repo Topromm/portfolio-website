@@ -2,27 +2,47 @@ import { useNavigate, Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
 function About() {
-  const navigate = useNavigate();
+  const [isDarkMode, setIsDarkMode] = useState(() => localStorage.getItem("darkMode") === "true");
   const [menuOpen, setMenuOpen] = useState(false);
 
-  // Sync menuOpen with checkbox state
   useEffect(() => {
     const check = document.getElementById("check");
     if (check) check.checked = menuOpen;
   }, [menuOpen]);
 
-  const redirectToContactPage = () => {
-   navigate('/contact'); // placeholder
-  };
+  useEffect(() => {
+    const handler = () => setIsDarkMode(localStorage.getItem("darkMode") === "true");
+    const customHandler = (e) => setIsDarkMode(e.detail);
+
+    window.addEventListener("storage", handler);
+    window.addEventListener("darkModeChanged", customHandler);
+
+    return () => {
+      window.removeEventListener("storage", handler);
+      window.removeEventListener("darkModeChanged", customHandler);
+    };
+  }, []);
+
+  const lightModeFace = "/assets/aboutBackgroundLight.png";
+  const darkModeFace = "/assets/aboutBackgroundLight.png";
+  const faceSrc = isDarkMode ? darkModeFace : lightModeFace;
+
+  useEffect(() => {
+    const check = document.getElementById("check");
+    if (check) check.checked = menuOpen;
+  }, [menuOpen]);
+
 
   return (
     <>
       <header>
         <nav>
-          <ul className="navbar">
-            <div className="mode-button" id="mode-button">
-              <img src="https://i.imgur.com/Li8FKFW.png" alt="Moon" className="icon" id="moon-icon"/>
-            </div>
+          <ul className="navbar2">
+            <li>
+              <div className="mode-button" id="mode-button">
+                <img src="https://i.imgur.com/Li8FKFW.png" alt="Moon" className="icon" id="moon-icon"/>
+              </div>
+            </li>
             <li className="home-button">
               <a href="/">Home</a>
             </li>
@@ -62,36 +82,11 @@ function About() {
         </nav>
       </header>
 
-      <div className="hero-container">
-        <div className="hero-content">
-          <h2>About</h2>
-          <p>Esimerkki about me tyylisestä sivusta.</p>
-          <button className="cta-button" onClick={redirectToContactPage}>
-            Contact me
-          </button>
+      <section className="about-container">
+        <div className="about-images">
+          <img src={faceSrc} alt="aboutImage1" className="about-image1"/>
         </div>
-      </div>
-
-      <div className="page-content1">
-        <h1>Esimerkki Erkki</h1>
-        <p>Ohjelmistokehittäjä</p>
-      </div>
-
-      <div className="page-content2">
-        <p>Paljon tärkeää tekstiä ja tietoa ja jotain semmosta.</p>
-        <p>Tässä lisää tärkeää hienoa tekstiä ynnä muuta sellasta.</p>
-        <p>Lisää tärkeää hienoa tietoa liittyen johonkin tärkeään.</p>
-      </div>
-
-      <div className="page-content3">
-        <p>Paljon lisää tärkeää tekstiä ja tietoa ja jotain semmosta.</p>
-        <p>Tässä vielä vähän lisää tärkeää tekstiä ynnä muuta sellasta.</p>
-        <p>Lisää erittäin tärkeää hienoa tietoa liittyen johonkin tärkeään taas.</p>
-      </div>
-
-      <div className="page-content5">
-        <button className="testi-button" onClick={redirectToContactPage}>Ota yhteyttä</button>
-      </div>
+      </section>
     </>
   );
 }

@@ -29,6 +29,21 @@ body.dark-mode {
  position: relative;
 }
 
+.navbar2 { /* Navbar style */
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+ list-style: none;
+ background: linear-gradient(to right, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #c5a56c, #c45f30, #9c604e);
+ padding: 12px 20px;
+ z-index: 1000;
+ position: fixed;
+ /* Ensure relative positioning for absolute children */
+ position: relative;
+}
+
 .home-button { /* Home button style */
  position: absolute;
  left: 50%;
