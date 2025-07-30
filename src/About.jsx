@@ -23,7 +23,7 @@ function About() {
     };
   }, []);
 
-  const lightModeFace = "/assets/aboutBackgroundLight.png";
+  const lightModeFace = "/assets/aboutBirdsLight.png";
   const darkModeFace = "/assets/aboutBackgroundLight.png";
   const faceSrc = isDarkMode ? darkModeFace : lightModeFace;
 
@@ -39,8 +39,25 @@ function About() {
         <nav>
           <ul className="navbar2">
             <li>
-              <div className="mode-button" id="mode-button">
-                <img src="https://i.imgur.com/Li8FKFW.png" alt="Moon" className="icon" id="moon-icon"/>
+              <div
+                className="mode-button"
+                id="mode-button"
+                onClick={() => {
+                  const newMode = !isDarkMode;
+                  setIsDarkMode(newMode);
+                  localStorage.setItem("darkMode", newMode);
+                  window.dispatchEvent(new CustomEvent("darkModeChanged", { detail: newMode }));
+                }}
+                style={{ cursor: "pointer" }}
+              >
+                <img
+                  src={isDarkMode
+                    ? "https://i.imgur.com/C0R5Nns.png"
+                    : "https://i.imgur.com/Li8FKFW.png"}
+                  alt={isDarkMode ? "Sun" : "Moon"}
+                  className="icon"
+                  id={isDarkMode ? "sun-icon" : "moon-icon"}
+                />
               </div>
             </li>
             <li className="home-button">
