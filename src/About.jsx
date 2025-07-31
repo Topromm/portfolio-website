@@ -105,6 +105,23 @@ function About() {
   return (
     <>
       <div className="about-container"/>
+      {isDarkMode && (
+        <img
+          src="/assets/aboutStarsDark2.png"
+          alt="Stars Overlay"
+          style={{
+            position: "absolute",
+            top: -80,
+            left: 0,
+            width: "100vw",
+            height: "140px",
+            objectFit: "cover",
+            zIndex: 2000,
+            pointerEvents: "none",
+            userSelect: "none"
+          }}
+        />
+      )}
       <style>
         {`
         @keyframes ufo-fly-once {
@@ -211,7 +228,7 @@ function About() {
               key={src}
               style={{
                 position: "absolute",
-                top: 20,
+                top: 0,
                 left: 0,
                 width: "100vw",
                 height: "100%",
@@ -222,6 +239,18 @@ function About() {
             />
           );
         })}
+      <h1 style={{
+        fontFamily: "Book Antiqua",
+        width: "140%",
+        textAlign: "center",
+        marginTop: "200px",
+        marginBottom: "24px",
+        fontSize: "2.5rem",
+        fontWeight: 800,
+        color: "#fff"
+      }}>
+        Nothing here, yet...
+      </h1>
       </div>
     </>
   );
