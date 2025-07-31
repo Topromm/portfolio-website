@@ -21,7 +21,6 @@ body.dark-mode {
  justify-content: space-between;
  align-items: center;
  list-style: none;
- background: linear-gradient(to right, #000000, #000000, #000000, #436674);
  padding: 12px 20px;
  z-index: 1000;
  position: fixed;
@@ -35,11 +34,24 @@ body.dark-mode {
  justify-content: space-between;
  align-items: center;
  list-style: none;
- background: linear-gradient(to right, #d1481f, #c45f30, #c5a56c, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3);
  padding: 12px 20px;
  z-index: 1000;
  position: fixed;
  position: relative;
+}
+
+/* Light/dark mode navbar backgrounds */
+body.light-mode .navbar {
+  background: linear-gradient(to right, #ebb390, #677788, #677788, #677788) !important;
+}
+body.dark-mode .navbar {
+  background: linear-gradient(to right, #436674, #000000, #000000, #000000) !important;
+}
+body.light-mode .navbar2 {
+  background: linear-gradient(to right, #d1481f, #c45f30, #c5a56c, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3) !important;
+}
+body.dark-mode .navbar2 {
+  background: #150740 !important;
 }
 
 .home-button { /* Home button style */
@@ -616,12 +628,33 @@ body.dark-mode .what-i-do-item p {
 
 /* About page styles */
 .about-container {
-  /* Light mode: About's own gradient (matches .navbar2) */
-  background: linear-gradient(to right, #d1481f, #c45f30, #c5a56c, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3);
-  /* Dark mode: About's own background */
-  background-color: #150740;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  pointer-events: none;
 }
 
-body.light-mode .navbar {
-  background: linear-gradient(to right, #ebb390, #677788, #677788, #677788);
+/* Force dark mode background to override gradient */
+body.dark-mode .about-container {
+  background: none !important;
+  background-color: #150740 !important;
+}
+
+/* Force light mode About background to match navbar2 */
+body.light-mode .about-container {
+  background: linear-gradient(to right, #d1481f, #c45f30, #c5a56c, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3) !important;
+}
+
+/* Hide scrollbar for all browsers, all elements */
+html, body, * {
+  scrollbar-width: none !important;        /* Firefox */
+  -ms-overflow-style: none !important;     /* IE and Edge */
+}
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+*:not(textarea)::-webkit-scrollbar {
+  display: none !important;                /* Chrome, Safari, Opera */
 }

@@ -1,9 +1,14 @@
 import { useNavigate, Link } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 function About() {
   const [isDarkMode, setIsDarkMode] = useState(() => localStorage.getItem("darkMode") === "true");
   const [menuOpen, setMenuOpen] = useState(false);
+
+  const [ufoActive, setUfoActive] = useState(false);
+  const [ufoAnimId, setUfoAnimId] = useState(0);
+  const ufoTimeoutRef = useRef();
+  const ufoIntervalRef = useRef();
 
   useEffect(() => {
     const check = document.getElementById("check");
@@ -17,11 +22,29 @@ function About() {
     window.addEventListener("storage", handler);
     window.addEventListener("darkModeChanged", customHandler);
 
+    const modeButton = document.getElementById("mode-button");
+    if (modeButton) {
+      modeButton.innerHTML = isDarkMode
+        ? '<img src="https://i.imgur.com/C0R5Nns.png" alt="Sun" class="icon" id="sun-icon">'
+        : '<img src="https://i.imgur.com/Li8FKFW.png" alt="Moon" class="icon" id="moon-icon">';
+      modeButton.onclick = null;
+      modeButton.onclick = () => {
+        const newMode = !isDarkMode;
+        localStorage.setItem("darkMode", newMode);
+        setIsDarkMode(newMode);
+        window.dispatchEvent(new CustomEvent("darkModeChanged", { detail: newMode }));
+        document.body.classList.toggle("dark-mode", newMode);
+        document.body.classList.toggle("light-mode", !newMode);
+      };
+      document.body.classList.toggle("dark-mode", isDarkMode);
+      document.body.classList.toggle("light-mode", !isDarkMode);
+    }
+
     return () => {
       window.removeEventListener("storage", handler);
       window.removeEventListener("darkModeChanged", customHandler);
     };
-  }, []);
+  }, [isDarkMode, menuOpen, window.location.pathname]);
 
   const lightModeImages = [
     "/assets/aboutBackgroundLight.png",
@@ -32,8 +55,9 @@ function About() {
   ];
 
   const darkModeImages = [
-    "/assets/aboutBackgroundDark.png",
+    "/assets/aboutStarsDark.png",
     "/assets/aboutMoonDark.png",
+    "/assets/aboutUFODark.png",
     "/assets/aboutMountains1Dark.png",
     "/assets/aboutMountains2Dark.png",
     "/assets/aboutTreelineDark.png",
@@ -46,9 +70,66 @@ function About() {
     if (check) check.checked = menuOpen;
   }, [menuOpen]);
 
+  useEffect(() => {
+    document.body.classList.add("about-page");
+    return () => {
+      document.body.classList.remove("about-page");
+    };
+  }, []);
+
+  useEffect(() => {
+    if (ufoTimeoutRef.current) clearTimeout(ufoTimeoutRef.current);
+    if (ufoIntervalRef.current) clearInterval(ufoIntervalRef.current);
+
+    if (!isDarkMode) {
+      setUfoActive(false);
+      return;
+    }
+
+    const triggerUfo = () => {
+      setUfoActive(true);
+      setUfoAnimId(id => id + 1);
+      ufoTimeoutRef.current = setTimeout(() => setUfoActive(false), 3000);
+    };
+
+    triggerUfo();
+
+    ufoIntervalRef.current = setInterval(triggerUfo, 60000);
+
+    return () => {
+      if (ufoTimeoutRef.current) clearTimeout(ufoTimeoutRef.current);
+      if (ufoIntervalRef.current) clearInterval(ufoIntervalRef.current);
+    };
+  }, [isDarkMode]);
 
   return (
     <>
+      <div className="about-container"/>
+      <style>
+        {`
+        @keyframes ufo-fly-once {
+          0% { left: -120px; opacity: 1; }
+          90% { opacity: 1; }
+          100% { left: 100vw; opacity: 0; }
+        }
+        .about-ufo {
+          position: absolute !important;
+          width: 80px !important;
+          height: auto !important;
+          top: 60px !important;
+          z-index: 2;
+          pointer-events: none;
+          user-select: none;
+          left: -120px;
+          opacity: 0;
+          transition: opacity 0.2s;
+        }
+        .about-ufo.active {
+          animation: ufo-fly-once 3s linear 0s 1;
+          opacity: 1 !important;
+        }
+        `}
+      </style>
       <header>
         <nav>
           <ul className="navbar2">
@@ -56,12 +137,6 @@ function About() {
               <div
                 className="mode-button"
                 id="mode-button"
-                onClick={() => {
-                  const newMode = !isDarkMode;
-                  setIsDarkMode(newMode);
-                  localStorage.setItem("darkMode", newMode);
-                  window.dispatchEvent(new CustomEvent("darkModeChanged", { detail: newMode }));
-                }}
                 style={{ cursor: "pointer" }}
               >
                 <img
@@ -115,14 +190,39 @@ function About() {
           </ul>
         </nav>
       </header>
-
-      <section className="about-container">
-        <div className="about-images">
-          {imagesToShow.map((src, idx) => (
-            <img src={src} alt={`aboutImage${idx + 1}`} className={`about-image about-image${idx + 1}`} key={src}/>
-          ))}
-        </div>
-      </section>
+      <div className="about-images">
+        {imagesToShow.map((src, idx) => {
+          if (isDarkMode && src === "/assets/aboutUFODark.png") {
+            return (
+              <img
+                src={src}
+                alt="aboutUFO"
+                className={`about-image about-ufo${ufoActive ? " active" : ""}`}
+                key={`ufo-${ufoAnimId}`}
+                style={{ }}
+              />
+            );
+          }
+          return (
+            <img
+              src={src}
+              alt={`aboutImage${idx + 1}`}
+              className={`about-image about-image${idx + 1}`}
+              key={src}
+              style={{
+                position: "absolute",
+                top: 20,
+                left: 0,
+                width: "100vw",
+                height: "100%",
+                objectFit: "cover",
+                pointerEvents: "none",
+                userSelect: "none",
+              }}
+            />
+          );
+        })}
+      </div>
     </>
   );
 }

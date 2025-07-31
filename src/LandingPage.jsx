@@ -47,6 +47,24 @@ function LandingPage() {
     if (check) check.checked = menuOpen;
   }, [menuOpen]);
 
+  useEffect(() => {
+    if (!menuOpen) return;
+    function handleClick(e) {
+      const menu = document.querySelector('.menu.open');
+      const hamburger = document.querySelector('.hamburger-menu');
+      if (
+        menu &&
+        !menu.contains(e.target) &&
+        hamburger &&
+        !hamburger.contains(e.target)
+      ) {
+        setMenuOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClick);
+    return () => document.removeEventListener("mousedown", handleClick);
+  }, [menuOpen]);
+
  return (
    <>
     <header>
