@@ -23,9 +23,23 @@ function About() {
     };
   }, []);
 
-  const lightModeFace = "/assets/aboutBirdsLight.png";
-  const darkModeFace = "/assets/aboutBackgroundLight.png";
-  const faceSrc = isDarkMode ? darkModeFace : lightModeFace;
+  const lightModeImages = [
+    "/assets/aboutBackgroundLight.png",
+    "/assets/aboutBirdsLight.png",
+    "/assets/aboutMountains1Light.png",
+    "/assets/aboutMountains2Light.png",
+    "/assets/aboutTreelineLight.png",
+  ];
+
+  const darkModeImages = [
+    "/assets/aboutBackgroundDark.png",
+    "/assets/aboutMoonDark.png",
+    "/assets/aboutMountains1Dark.png",
+    "/assets/aboutMountains2Dark.png",
+    "/assets/aboutTreelineDark.png",
+  ];
+
+  const imagesToShow = isDarkMode ? darkModeImages : lightModeImages;
 
   useEffect(() => {
     const check = document.getElementById("check");
@@ -104,7 +118,9 @@ function About() {
 
       <section className="about-container">
         <div className="about-images">
-          <img src={faceSrc} alt="aboutImage1" className="about-image1"/>
+          {imagesToShow.map((src, idx) => (
+            <img src={src} alt={`aboutImage${idx + 1}`} className={`about-image about-image${idx + 1}`} key={src}/>
+          ))}
         </div>
       </section>
     </>
