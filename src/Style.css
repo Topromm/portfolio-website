@@ -462,7 +462,11 @@ body.dark-mode .what-i-do {
   max-width: 340px;
   flex: 1 1 280px;
   text-align: center;
-  transition: background 0.3s, box-shadow 0.3s;
+  transition: 
+    background 0.3s, 
+    box-shadow 0.3s, 
+    transform 0.18s cubic-bezier(.23,1.02,.53,.97);
+  will-change: transform, box-shadow;
 }
 
 body.dark-mode .what-i-do-item {
@@ -490,6 +494,13 @@ body.dark-mode .what-i-do-item h2 {
 
 body.dark-mode .what-i-do-item p {
   color: #e0e0e0;
+}
+
+.what-i-do-item:hover,
+.what-i-do-item.is-tilting {
+  box-shadow: 0 12px 32px rgba(0,0,0,0.18), 0 2px 8px rgba(0,0,0,0.10);
+  transform: scale(1.045) var(--tilt, rotateX(0deg) rotateY(0deg));
+  z-index: 2;
 }
 
 .footer {
@@ -601,4 +612,16 @@ body.dark-mode .what-i-do-item p {
 .sparkle-btn:active,
 .sparkle-btn:hover {
   text-decoration: none !important;
+}
+
+/* About page styles */
+.about-container {
+  /* Light mode: About's own gradient (matches .navbar2) */
+  background: linear-gradient(to right, #d1481f, #c45f30, #c5a56c, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3);
+  /* Dark mode: About's own background */
+  background-color: #150740;
+}
+
+body.light-mode .navbar {
+  background: linear-gradient(to right, #ebb390, #677788, #677788, #677788);
 }

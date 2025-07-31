@@ -108,7 +108,7 @@ function LandingPage() {
         </p>
         <a
           href="#"
-          className="cta-button sparkle-btn"
+          className={`cta-button sparkle-btn ${isDarkMode ? "dark-mode-button" : "light-mode-button"}`}
           onClick={e => {
             e.preventDefault();
             redirectToContactPage();
@@ -143,34 +143,30 @@ function LandingPage() {
       </h1>
       <div className="what-i-do-content">
         <div className="what-i-do-list">
-          <div className="what-i-do-item">
-            <h2>Frontend</h2>
-            <p>
-              I specialize in frontend development using JavaScript, TypeScript, and React, 
-              creating engaging user interfaces by leveraging modern tools and writing clean, maintainable code.
-            </p>
-          </div>
-          <div className="what-i-do-item">
-            <h2>Backend</h2>
-            <p>
-              I build scalable backend systems using Python, Flask, and Node.js. <br/>
-              I implement RESTful APIs, handle data processing, and ensure seamless integration with the frontend through well-structured architecture.
-            </p>
-          </div>
-          <div className="what-i-do-item">
-            <h2>3D Art & Design</h2>
-            <p>
-              I create 3D models and visual assets using Blender, and enjoy building interactive experiences with game engines like Unreal. 
-              My passion lies in combining code and creativity to bring digital worlds and ideas to life.
-            </p>
-          </div>
-          <div className="what-i-do-item">
-            <h2>Photography</h2>
-            <p>
-              I enjoy capturing unique moments and perspectives, editing my photos with tools like Photoshop and Lightroom to bring out their full potential. 
-              I'm always exploring new techniques and creative approaches to visual storytelling.
-            </p>
-          </div>
+          {[
+            {
+              title: "Frontend",
+              desc: "I specialize in frontend development using JavaScript, TypeScript, and React, creating engaging user interfaces by leveraging modern tools and writing clean, maintainable code."
+            },
+            {
+              title: "Backend",
+              desc: "I build scalable backend systems using Python, Flask, and Node.js. \nI implement RESTful APIs, handle data processing, and ensure seamless integration with the frontend through well-structured architecture."
+            },
+            {
+              title: "3D Art & Design",
+              desc: "I create 3D models and visual assets using Blender, and enjoy building interactive experiences with game engines like Unreal. My passion lies in combining code and creativity to bring digital worlds and ideas to life."
+            },
+            {
+              title: "Photography",
+              desc: "I enjoy capturing unique moments and perspectives, editing my photos with tools like Photoshop and Lightroom to bring out their full potential. I'm always exploring new techniques and creative approaches to visual storytelling."
+            }
+          ].map((item, idx) => (
+            <WhatIDoItem
+              key={item.title}
+              title={item.title}
+              desc={item.desc}
+            />
+          ))}
         </div>
       </div>
     </section>
@@ -179,6 +175,56 @@ function LandingPage() {
       </footer>
    </>
  );
+}
+
+function WhatIDoItem({ title, desc }) {
+  const ref = useRef(null);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+
+    let lastPx = 0, lastPy = 0;
+    let animFrame = null;
+
+    function handleMove(e) {
+      const rect = el.getBoundingClientRect();
+      let x = Math.min(Math.max(e.clientX, rect.left), rect.right - 1);
+      let y = Math.min(Math.max(e.clientY, rect.top), rect.bottom - 1);
+      const px = ((x - rect.left) / rect.width - 0.5) * 2; // -1 to 1
+      const py = ((y - rect.top) / rect.height - 0.5) * 2; // -1 to 1
+      lastPx = px;
+      lastPy = py;
+      if (!animFrame) {
+        animFrame = requestAnimationFrame(() => {
+          const maxTilt = 30;
+          el.style.setProperty('--tilt', `rotateX(${-lastPy * maxTilt}deg) rotateY(${lastPx * maxTilt}deg)`);
+          el.classList.add('is-tilting');
+          animFrame = null;
+        });
+      }
+    }
+    function handleLeave() {
+      el.style.setProperty('--tilt', 'rotateX(0deg) rotateY(0deg)');
+      el.classList.remove('is-tilting');
+    }
+    el.addEventListener('mousemove', handleMove);
+    el.addEventListener('mouseleave', handleLeave);
+    el.addEventListener('mouseenter', handleMove);
+    return () => {
+      el.removeEventListener('mousemove', handleMove);
+      el.removeEventListener('mouseleave', handleLeave);
+      el.removeEventListener('mouseenter', handleMove);
+      if (animFrame) cancelAnimationFrame(animFrame);
+    };
+  }, []);
+
+  return (
+    <div className="what-i-do-item" ref={ref}>
+      <h2>{title}</h2>
+      <p>{desc}</p>
+    </div>
+  );
 }
 
 export default LandingPage;
