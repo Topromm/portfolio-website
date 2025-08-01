@@ -1,5 +1,6 @@
 import { useNavigate, Link} from "react-router-dom";
 import { useEffect, useState, useRef } from "react";
+import { asciiArts } from "./asciiArt";
 
 function LandingPage() {
   const navigate = useNavigate();
@@ -7,6 +8,7 @@ function LandingPage() {
   const whatIDoRef = useRef(null);
   const [whatIDoVisible, setWhatIDoVisible] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [asciiArtIdx, setAsciiArtIdx] = useState(0);
 
   useEffect(() => {
     const handler = () => setIsDarkMode(localStorage.getItem("darkMode") === "true");
@@ -27,6 +29,11 @@ function LandingPage() {
       const rect = whatIDoRef.current.getBoundingClientRect();
       if (rect.top < window.innerHeight - 100) {
         setWhatIDoVisible(true);
+      }
+
+      // Check if scrolled to bottom
+      if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 2) {
+        setAsciiArtIdx(prev => (prev + 1) % asciiArts.length);
       }
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
@@ -141,7 +148,29 @@ function LandingPage() {
           <span>Contact me</span>
         </a>
       </div>
-      <img src={faceSrc} alt="Headshot" className="hero-face"/>
+      {isDarkMode ? (
+        <pre
+          className="hero-face-ascii"
+          style={{
+            fontFamily: "monospace",
+            fontSize: "14px",
+            lineHeight: "14px",
+            color: "#fff",
+            background: "transparent",
+            textAlign: "right",
+            margin: "0 auto",
+            display: "block",
+            maxWidth: "100vw",
+            overflowX: "auto",
+            whiteSpace: "pre",
+            userSelect: "none",
+            pointerEvents: "auto",
+            marginLeft: "38vw"
+          }}
+        >{asciiArts[asciiArtIdx]}</pre>
+      ) : (
+        <img src={faceSrc} alt="Headshot" className="hero-face"/>
+      )}
     </section>
 
     <section className="page-content1">

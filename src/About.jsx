@@ -252,6 +252,23 @@ function About() {
         Nothing here, yet...
       </h1>
       </div>
+      <footer
+        className="footer"
+        style={{
+          position: "fixed",
+          left: 0,
+          bottom: 0,
+          width: "100vw",
+          background: "#010f35",
+          color: "#13265cff",
+          textAlign: "right",
+          padding: "16px 16px",
+          fontSize: "1rem",
+          letterSpacing: "1px",
+        }}
+      >
+        © Copyright {new Date().getFullYear()} Topromm.
+      </footer>
     </>
   );
 }
