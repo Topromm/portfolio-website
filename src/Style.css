@@ -79,6 +79,14 @@ body.dark-mode .navbar2 {
  z-index: 1100;
 }
 
+/* Hamburger menu background for LandingPage */
+body.light-mode .navbar .menu {
+  background: #677788 !important;
+}
+body.dark-mode .navbar .menu {
+  background: #000 !important;
+}
+
 /* Hamburger menu icon */
 .hamburger-menu {
   width: 44px;

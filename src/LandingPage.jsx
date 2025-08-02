@@ -161,7 +161,7 @@ function LandingPage() {
             margin: "0 auto",
             display: "block",
             maxWidth: "100vw",
-            overflowX: "auto",
+            overflow: "hidden",
             whiteSpace: "pre",
             userSelect: "none",
             pointerEvents: "auto",
