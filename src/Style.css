@@ -54,6 +54,22 @@ body.dark-mode .navbar2 {
   background: #150740 !important;
 }
 
+/* Hamburger menu background for LandingPage */
+body.light-mode .navbar .menu {
+  background: #677788 !important;
+}
+body.dark-mode .navbar .menu {
+  background: #000 !important;
+}
+
+/* About page hamburger menu background */
+body.light-mode .navbar2 .menu {
+  background: #8fc8c3 !important;
+}
+body.dark-mode .navbar2 .menu {
+  background: #150740 !important;
+}
+
 .home-button { /* Home button style */
  position: absolute;
  left: 50%;
@@ -77,14 +93,6 @@ body.dark-mode .navbar2 {
  transform: translateY(-50%);
  margin: 0;
  z-index: 1100;
-}
-
-/* Hamburger menu background for LandingPage */
-body.light-mode .navbar .menu {
-  background: #677788 !important;
-}
-body.dark-mode .navbar .menu {
-  background: #000 !important;
 }
 
 /* Hamburger menu icon */

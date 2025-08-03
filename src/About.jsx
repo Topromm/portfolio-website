@@ -4,11 +4,33 @@ import { useState, useEffect, useRef } from 'react';
 function About() {
   const [isDarkMode, setIsDarkMode] = useState(() => localStorage.getItem("darkMode") === "true");
   const [menuOpen, setMenuOpen] = useState(false);
-
+  
   const [ufoActive, setUfoActive] = useState(false);
   const [ufoAnimId, setUfoAnimId] = useState(0);
   const ufoTimeoutRef = useRef();
   const ufoIntervalRef = useRef();
+  
+  useEffect(() => {
+    if (!menuOpen) return;
+    function handleClick(e) {
+      const menu = document.querySelector('.menu.open');
+      const hamburger = document.querySelector('.hamburger-menu');
+      const modeButton = document.getElementById("mode-button");
+      if (modeButton && modeButton.contains(e.target)) {
+        return;
+      }
+      if (
+        menu &&
+        !menu.contains(e.target) &&
+        hamburger &&
+        !hamburger.contains(e.target)
+      ) {
+        setMenuOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClick);
+    return () => document.removeEventListener("mousedown", handleClick);
+  }, [menuOpen]);
 
   useEffect(() => {
     const check = document.getElementById("check");
@@ -35,6 +57,7 @@ function About() {
         window.dispatchEvent(new CustomEvent("darkModeChanged", { detail: newMode }));
         document.body.classList.toggle("dark-mode", newMode);
         document.body.classList.toggle("light-mode", !newMode);
+        setMenuOpen(false);
       };
       document.body.classList.toggle("dark-mode", isDarkMode);
       document.body.classList.toggle("light-mode", !isDarkMode);
@@ -72,8 +95,14 @@ function About() {
 
   useEffect(() => {
     document.body.classList.add("about-page");
+    const prevBodyOverflowX = document.body.style.overflowX;
+    const prevHtmlOverflowX = document.documentElement.style.overflowX;
+    document.body.style.overflowX = "hidden";
+    document.documentElement.style.overflowX = "hidden";
     return () => {
       document.body.classList.remove("about-page");
+      document.body.style.overflowX = prevBodyOverflowX;
+      document.documentElement.style.overflowX = prevHtmlOverflowX;
     };
   }, []);
 
