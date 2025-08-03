@@ -1,4 +1,4 @@
-import { useNavigate, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { useState, useEffect, useRef } from 'react';
 
 function About() {
@@ -218,19 +218,19 @@ function About() {
             </label>
             <span className={`menu${menuOpen ? " open" : ""}`}>
               <li>
-                <Link to="/About" onClick={() => setMenuOpen(false)}>About</Link>
+                <Link to="/about" onClick={() => setMenuOpen(false)}>About</Link>
               </li>
               <li>
-                <Link to="/Services" onClick={() => setMenuOpen(false)}>Services</Link>
+                <Link to="/services" onClick={() => setMenuOpen(false)}>Services</Link>
               </li>
               <li>
-                <Link to="/Portfolio" onClick={() => setMenuOpen(false)}>Portfolio</Link>
+                <Link to="/portfolio" onClick={() => setMenuOpen(false)}>Portfolio</Link>
               </li>
               <li>
-                <Link to="/Contact" onClick={() => setMenuOpen(false)}>Contact</Link>
+                <Link to="/contact" onClick={() => setMenuOpen(false)}>Contact</Link>
               </li>
               <li>
-                <Link to="/Lunabox" onClick={() => setMenuOpen(false)}>Lunabox</Link>
+                <Link to="/lunabox" onClick={() => setMenuOpen(false)}>Lunabox</Link>
               </li>
             </span>
           </ul>

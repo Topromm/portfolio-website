@@ -158,79 +158,6 @@ export const asciiArts = [
                                                                                                                                                                                                         
                                                                                                                                                                                                         
                                                                                                                                                                                                         
-                                                                                                   BCC  BBA                                                                                             
-                                                                                              BCCCCCCCCDDDCCBB                                                                                          
-                                                                                          ACCDDDCCCDCDDCDDDCDDCCB                                                                                       
-                                                                                      BBCCDDDDDBBBBBBCCDDCDDDDDDCCB                                                                                     
-                                                                                    ACCDCCCDDCABCBBCCCDCCCCCCDCCCDDC                                                                                    
-                                                                                   CCCBBCDFDBBDCCBBCDDDCDEDEDDDDDCCCCC                                                                                  
-                                                                                 BCCBBCCDDBABCCCBBDEDDDDDDEFFFEEDDDCCCC                                                                                 
-                                                                               ABDCBBDBCAAAACCBBCEFEDDDEFHIIIHGFEDDCCCCB                                                                                
-                                                                              BCDCBBCABAAAACBCDFFEEDCCDDDDDDDDDEEDDDCCCCCB                                                                              
-                                                                            ABCDBBABAAAAABBCDEFGIKLLLLKJHGGGGGGFFEDCDDDDCB                                                                              
-                                                                            BCDCBABABCCCDEFHJJKLMNOOOOONMLKKJIIGEDDDCDDDC                                                                               
-                                                                           BCDCCBBBDGIKLLLLLLMMNOOPPPPPOOONMMKKJHFDDDDDED                                                                               
-                                                                          BBCDDCCCEHLMNNNNNNNOOPPPPPPPPPPOOONMLKIGEDEEDEB                                                                               
-                                                                           BDDEEDEHKLNNOOOOOOPPPPPPPPPPPPOOOONNMLIEDEEEE                                                                                
-                                                                           BDEEFFGILMNNNOOOOOPPPOPPPPPPPPPOOONNNMLIEDCCEB                                                                               
-                                                                           BDEEFFGJLMNNNOOOOPPPPPPPPPOOONNNNNNNNMMLHDCCDC                                                                               
-                                                                           CDDEEEHKLMNNNNOOOPPPPPPOMJGFFHIJJKJLMMMLJDCCD                                                                                
-                                                                            DDDDDHKKKKIHGGJMOOPPPPNNML       MKKMMMJDCCD                                                                                
-                                                                             DEEDGIGGI      MNOPPONMLK        NNMMMJECCC                                                                                
-                                                                              DEEFHHJL     KKKLOPONMMMLH       ONMKFCEKM                                                                               
-                                                                               FEEGILL    HONMMMPPONNONNOOOOPPPPOOMLHFJLMN                                                                              
-                                                                                FEGJLLJLLKNNONMNOOONOOPPPQPPPPPPPOMLKKMNNOO                                                                             
-                                                                                FFFJMMNNNOOOONMMNOONNOPPPPPPPPPPONMLLLNPOON                                                                             
-                                                                                 IGJMNOOOOOOOMLNOOONMNOPPPPPPPPOONMLLNOPOO                                                                              
-                                                                                 LIJMNOOOOOOOMMOPPPONNNPPQQQPPPOONMLLNNOPN                                                                              
-                                                                                 NLIKMNOOOOOOMKKLMMHGLNOPPPPPP  NMMLMOONN                                                                               
-                                                                                 NMKIL   OPPONLLKMNOONOOPPPP  ONNNMLLNON                                                                                
-                                                                                  NNJIKMN   ONNNNOPPPPPOOOO  ONNNNNLK                                                                                   
-                                                                                   MLJIKMNNN   OOOOONNNNO  OONNNNNNLK                                                                                   
-                                                                                    LLIJKLMMMNM   KKLNM  NOOOONNNNMKJ                                                                                   
-                                                                                       JKKKLMMLMMM     OOOOONNNNNMLKK                                                                                   
-                                                                                        JKKKLLMMNNOONOOOOONNNNNNMLKLK                                                                                   
-                                                                                         IKKKKKLMMNOOOOOOOOONNMLKLMLK                                                                                   
-                                                                                         IIIJKLMMMMMNOOOOOONMLKKLMMLK                                                                                   
-                                                                                         IJJIIJLMMMMMNNOONMLKKKLMMMML                                                                                   
-                                                                                         IJKKIHHJLMLLLLLKKKLLLLMMMMML                                                                                   
-                                                                                         IJKKKJIJJJJJJKLLMMMMLMMNNMMLK                                                                                  
-                                                                                       ABGJLMLLJJKLLMMMNNNNMMLMNNNNNLKJHBA                                                                              
-                                                                                    AAAADHJLMMMLJJKLMNNNNNMMMLMNNNNNMLKKJFBBA                                                                           
-                                                                                 AAAAAAAEIJKLMMMKJJKLLMNMMMMLMMNNNNNMLLKLLGBAAAA                                                                        
-                                                                             AAAAAAAAAAACHJKLLMMMLJJKKLMLMMLMMNNNNNNMLLLLLGBAAAAAAA                                                                     
-                                                                          AAAAAAAAAAAAAAABHJKLLLLMLKKLLLMMMMMNNNNOONMLLLLJCAAAAAAAAAAAA                                                                 
-                                                                       AAAAAAAAAAAAAAAAAAAAFJKLLLMMLKKLLLMMMNNNNOONMMLLLICAAAAAAAAAAAAAAAA                                                              
-                                                                   AAAAAAAAAAAAAAAAAAAAAAAAABGKLLLMNMMLLMMMNNNNNNNMMMLIDAAAAAAAAAAAAAAAAAAAAA                                                           
-                                                                 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACHKLMNMMMMMNNNNMMMMMLGBAAAAAAAAAAAAAAAAAAAAAAAAAA                                                        
-                                                              AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGJKLLLLLLKKIFCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                     
-                                                           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                  
-                                                         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB                                                
-                                                        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB                                              
-                                                       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                            
-                                                      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                           
-                                                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                         
-                                                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                         
-                                                    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                        
-                                                    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                        
-                                                    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                       
-                                                   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB                                       
-                                                   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABB                                       
-                                                   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                      
-                                                   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB                                      
-                                                  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                      
-                                                  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                      
-                                                  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                                                       `,
-`                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
                                                                                                    ███  ███                                                                                             
                                                                                               ████████████████                                                                                          
                                                                                           ███████████████████████                                                                                       
@@ -293,4 +220,769 @@ export const asciiArts = [
                                                    ███████████████████████████████████████████████████████████████████████████████████████████████████████████████                                      
                                                   ████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                      
                                                   ████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                      
-                                                  ████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                      `];
+                                                  ████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                      `,
+`                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                   ###  ###                                                                                             
+                                                                                              ################                                                                                          
+                                                                                          #######################                                                                                       
+                                                                                      #############################                                                                                     
+                                                                                    ################################                                                                                    
+                                                                                   ###################################                                                                                  
+                                                                                 ######################################                                                                                 
+                                                                               ##########################++++++#########                                                                                
+                                                                              ############################################                                                                              
+                                                                            ###################++++++++++++++#############                                                                              
+                                                                            ###############+++++--------++++++++#########                                                                               
+                                                                           #########++++++++++--------------+++++########                                                                               
+                                                                          #########++------------------------+++++#######                                                                               
+                                                                           #######+++---------------------------++######                                                                                
+                                                                           #######++-----------------------------++######                                                                               
+                                                                           ######+++-----------------------------+++#####                                                                               
+                                                                           ######+++----------------++##+++++++--+++####                                                                                
+                                                                            #####++++++++++----------+++++----+++-++####                                                                                
+                                                                             #####+++++++++++-------+++++++++-----++####                                                                                
+                                                                              ####+++++++++++++----+-+++#+-++-----++###++                                                                               
+                                                                               ###++++++##+---+--------------------++#++--                                                                              
+                                                                                ###+++++++----+--------------------+++-----                                                                             
+                                                                                ###++---------+--------------------+++-----                                                                             
+                                                                                 +#+----------+-------------------+++-----                                                                              
+                                                                                 ++++--------+--------------------+++-----                                                                              
+                                                                                 -++++-------++++-++++------------+++----                                                                               
+                                                                                 --++++-------++++-----------------++---                                                                                
+                                                                                  --+++----------------------------++                                                                                   
+                                                                                   ++++++--------------------------++                                                                                   
+                                                                                    +++++++---+++++++--------------++                                                                                   
+                                                                                       +++++++++------------------+++                                                                                   
+                                                                                        +++++++------------------++++                                                                                   
+                                                                                         ++++++++--------------++++++                                                                                   
+                                                                                         +++++++-++----------++++++++                                                                                   
+                                                                                         ++++++++--++------++++++--++                                                                                   
+                                                                                         +++++++++++++++++++++++---++                                                                                   
+                                                                                         +++++++++++++++++-++++-----++                                                                                  
+                                                                                       ###+++++++++++-------+++-----++++##                                                                              
+                                                                                    #####++++-+++++++------+++------+++++####                                                                           
+                                                                                 ########+++++++++++++---+++++-------++++++#####                                                                        
+                                                                             ############++++++++++++++++++++--------++++++########                                                                     
+                                                                          ################++++++++++++++++++---------+++++#############                                                                 
+                                                                       #####################++++++-++++++++---------+++++#################                                                              
+                                                                   ##########################+++++---+++++---------++++######################                                                           
+                                                                 ###############################+++----++-------++++############################                                                        
+                                                              ######################################++++++++++++###################################                                                     
+                                                           ###########################################################################################                                                  
+                                                         ###############################################################################################                                                
+                                                        ##################################################################################################                                              
+                                                       #####################################################################################################                                            
+                                                      #######################################################################################################                                           
+                                                     ##########################################################################################################                                         
+                                                     ##########################################################################################################                                         
+                                                    ############################################################################################################                                        
+                                                    ############################################################################################################                                        
+                                                    #############################################################################################################                                       
+                                                   ##############################################################################################################                                       
+                                                   ##############################################################################################################                                       
+                                                   ###############################################################################################################                                      
+                                                   ###############################################################################################################                                      
+                                                  ################################################################################################################                                      
+                                                  ################################################################################################################                                      
+                                                  ################################################################################################################                                      `,
+`                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                   +++  +++                                                                                             
+                                                                                              ++-----------+++                                                                                          
+                                                                                          +-----+++-------------+                                                                                       
+                                                                                      ++-------+++++++------------+                                                                                     
+                                                                                    ++---+---+++++++---++----------+                                                                                    
+                                                                                   +-++++-×-++--+++------------------+                                                                                  
+                                                                                 +-+++++--++++-+++---------×××--------+                                                                                 
+                                                                               ++--++-++++++++++--×-----××÷÷÷÷××-------+                                                                                
+                                                                              +--+++-++++++++--××-----------------------++                                                                              
+                                                                            ++--++++++++++++--××÷======÷÷××××××××--------+                                                                              
+                                                                            +--++++++++---×÷÷÷==≠≠≠≠≠≠≠≠====÷÷÷×---------                                                                               
+                                                                           ++--++++-×÷========≠≠≠≠≈≈≈≈≈≠≠≠≠≠===÷××-------                                                                               
+                                                                          ++-------÷=≠≠≠≠≠≠≠≠≠≠≈≈≈≈≈≈≈≈≈≈≠≠≠≠===÷×------+                                                                               
+                                                                           +------×==≠≠≠≠≠≠≠≠≈≈≈≈≈≈≈≈≈≈≈≈≠≠≠≠≠≠≠=÷------                                                                                
+                                                                           +---×××÷=≠≠≠≠≠≠≠≠≠≈≈≈≠≈≈≈≈≈≈≈≈≈≠≠≠≠≠≠≠=÷-----+                                                                               
+                                                                           +---×××÷=≠≠≠≠≠≠≠≠≈≈≈≈≈≈≈≈≈≠≠≠≠≠≠≠≠≠≠≠≠==÷--+-+                                                                               
+                                                                           +-----×==≠≠≠≠≠≠≠≠≈≈≈≈≈≈≠≠÷××××÷÷÷=÷=≠≠==÷-++-                                                                                
+                                                                            -----×====÷×××÷≠≠≠≈≈≈≈≠≠≠=====≠≠≠≠===≠=÷-+--                                                                                
+                                                                             ----×÷××÷÷÷÷÷÷==≠≠≈≈≠≠≠==÷××÷÷==≠≠≠≠≠=÷-+--                                                                                
+                                                                              ---×××÷==÷÷======≠≈≠≠=≠==××=≠==≠≠≠≠≠==×+-==                                                                               
+                                                                               ×--×÷==÷××-×≠≠≠=≠≈≈≠≠≠≠≠≠≠≠≠≠≈≈≈≈≠≠≠=××÷=≠≠                                                                              
+                                                                                ×-×÷==÷===≠≠≠≠=≠≠≠≠≠≠≠≈≈≈≈≈≈≈≈≈≈≈≠≠===≠≠≠≠≠                                                                             
+                                                                                ×××÷=≠≠≠≠≠≠≠≠≠=≠≠≠≠≠≠≠≈≈≈≈≈≈≈≈≈≈≠≠≠===≠≈≠≠≠                                                                             
+                                                                                 ÷×÷≠≠≠≠≠≠≠≠≠≠=≠≠≠≠≠≠≠≠≈≈≈≈≈≈≈≈≠≠≠===≠≠≈≠≠                                                                              
+                                                                                 =÷÷=≠≠≠≠≠≠≠≠=≠≠≈≈≈≠≠≠≠≈≈≈≈≈≈≈≈≠≠≠===≠≠≠≈≠                                                                              
+                                                                                 ≠=÷==≠≠≠≠≠≠≠====≠=××=≠≠≈≈≈≈≈≈≠≠≠≠===≠≠≠≠                                                                               
+                                                                                 ≠≠=÷==≠≠≠≈≈≠≠====≠≠≠≠≠≠≈≈≈≈≈≠≠≠≠≠≠==≠≠≠                                                                                
+                                                                                  ≠≠÷÷=≠≠≠≠≠≠≠≠≠≠≠≈≈≈≈≈≠≠≠≠≠≠≠≠≠≠≠≠==                                                                                   
+                                                                                   ==÷÷==≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠==                                                                                   
+                                                                                    ==÷÷===≠≠≠==÷÷===≠≠≠≠≠≠≠≠≠≠≠≠≠≠=÷                                                                                   
+                                                                                       ÷========≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠===                                                                                   
+                                                                                        ÷======≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠====                                                                                   
+                                                                                         ÷=======≠≠≠≠≠≠≠≠≠≠≠≠≠≠======                                                                                   
+                                                                                         ÷÷÷÷===≠==≠≠≠≠≠≠≠≠≠≠========                                                                                   
+                                                                                         ÷÷÷÷÷÷==≠≠==≠≠≠≠≠≠======≠≠==                                                                                   
+                                                                                         ÷÷==÷÷÷÷===============≠≠≠==                                                                                   
+                                                                                         ÷÷===÷÷÷÷÷÷÷÷====≠====≠≠≠≠≠==                                                                                  
+                                                                                       ++×÷====÷÷====≠≠≠≠≠≠≠===≠≠≠≠≠==÷×++                                                                              
+                                                                                    ++++-÷÷==≠==÷÷===≠≠≠≠≠≠===≠≠≠≠≠≠====÷×+++                                                                           
+                                                                                 +++++++-÷÷======÷÷===≠≠≠=====≠≠≠≠≠≠≠=====×+++++                                                                        
+                                                                             +++++++++++-×÷=======÷÷=========≠≠≠≠≠≠≠≠=====×++++++++                                                                     
+                                                                          ++++++++++++++++×÷================≠≠≠≠≠≠≠≠≠====÷-++++++++++++                                                                 
+                                                                       ++++++++++++++++++++×÷=====≠========≠≠≠≠≠≠≠≠≠====÷+++++++++++++++++                                                              
+                                                                   ++++++++++++++++++++++++++×====≠≠≠=====≠≠≠≠≠≠≠≠≠===÷-+++++++++++++++++++++                                                           
+                                                                 ++++++++++++++++++++++++++++++-÷==≠≠≠≠==≠≠≠≠≠≠≠====×+++++++++++++++++++++++++++                                                        
+                                                              +++++++++++++++++++++++++++++++++++++-×÷=========÷×++++++++++++++++++++++++++++++++++                                                     
+                                                           +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                  
+                                                         +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                
+                                                        ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                              
+                                                       +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                            
+                                                      +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                           
+                                                     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                         
+                                                     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                         
+                                                    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                        
+                                                    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                        
+                                                    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                       
+                                                   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                       
+                                                   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                       
+                                                   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                      
+                                                   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                      
+                                                  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                      
+                                                  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                      
+                                                  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                      `,
+`$$$xXXXXXXXXXxxxxxxxxx++++;;:;;::...........................::::;;++xxxx++++++++++;+++++++++xxxXxxxxx;;:;;;;+;+++xxX$XxX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+XXXXxXXXXXx+xx+++;:::::..................................................::;;;;;+++++++++++xxxxxxxXxx++;++:;;:;;;+xXXXXX$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+XXXXxXx++:::......:.................:............................................;..;::+++xXx+x+xx+;xx++++;;:;:::::;:+;+++X$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+x+;;:::::::::::...:..........::......:.........................................:;:.::;;++xxxXx+xx;;;x+::;;;:::::.:::.:+x+;;xX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+::::::::::::::::...:..:..:.::......:..:..:.....:..........................:;.:::.:+:;+x+xx+XXxXx;++.+;:::.;.......::::;+++XXxxxxx$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+:::::::::::::::::::::::........::.:........::...:.:..:...................:::::::;;+xXXXxxx$$Xxx+x:x:++..:.:.;.........::;+xX;+XxXX&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+:::::::::::::::::::::::::::::.::.::::::.....::::.:.::...:............:.:;;;;++++xxXxXX$$$X$$XXXxx+;x;;::.:.................:+xXXX$&$$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+::;::;::::::::::::::::::::::::.:::::::.:.:..:::::.:.:::::.:..::::::;;:;+++++xxxx$X$XXX$$$&$$X$XXXXx++;;:;;:.:................:;+Xxx+X$$X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+;;;;;;;;;:::::::::::::::::::::::::::::::::::.:::.::::::::::;;;;;;;++++xxxxxxxx$$$$X$$$$&&&$$$XXXXxxx+xx;+;..:...................:+x$Xx$$X$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
++;;;;;:;;:;;:::::::::::::::::::::::::::::::::::::;;;;;;;;;+xx+++xxx++xxxxXXxX$$$$$$$$&&&&&$$$$X$$xxx+XXXxx;:.......................++xXXx$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+++;;;;;:;;;;;;;;::::::::::::;:::::::;;;;;;;;;;;;;;;+;+++++++xxxxxxxxXXXxXXX$X$$$$$$$&&&&$$&$&$$$$XXXXX$XX+++:........................:;++X$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+;+;;;;;++;;:;;;;;;;;;;;;;::;;;;;;;;;;;+++++++++++xx+xxxxxXXxxxxXXXXXXXxXXX$X$$&$&&&&&&&&$&&&&&$$$XX$XXXXX+;:::::..........................:;xXXX$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+++++++++;;;;;;;;;;;;;;;;;;;;+;++++++++xx+xxxxxxx++x++xxxxXxxXXXXxXXX$XXXX$$$X$&$&&&&&&&&&&$&&$$$$$$$$XXXxx+;:::::::::::.......................;+$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+++;+;;++;+;;;;;;;+++++++++++xxxxxxxx+xxxxxxxxxxxxxxxxXXxxXXXXXXXXXXXXXXX$$$$$$$&&&&&&&&&&&&&$$$$$$$$XXXXxx+;;:::::::::;::;:::.....................:;x$X$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+++++;++++++++++++++xxxxxxxxxxxxxXXxXxxxxxxxxxx+xxxxXXXXxXXXXxXXXXXXXXXX$$$$&$&$&&&&&&&&$&&&&$$$$$$$XXXXxx++;;;;:;;;;;+++++++;;;;;::.....................;+XX$$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
++xx++++++++++xxxxxxxxxXxxxXxxxxXxxxXxxxXxxxXXxxXXXxXXXXXXXXXXXXXXXXXX$$X$$$&&&&&&&&&&$&&&&&&$$$$$$$XXXXxx++++;;;;++xxxxxxxxxxxx++;;+;;:........................:;x$$$$$$$$&&&&&&&$$$&&&&&&&&&&&&&&&&&&&&
++x+x+x++xxxXXXXXXXXXXXXXXXXXxXXXXXXXXxxxxXxXXxXXxxXxXXXXXXXXXxXX$XX$X$$$X$&&&&&&&&&&&&&&&&&$$$$$$$XXXXxx+++++++xxXxx;;;;;::xx+xXXx++:.................................::;+;++xX$$$xX$X$$$$&$$&&&&&&&&&&&
++xxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxXXxxxxXxxXXXXXXXXXXXXXX$$$$$$&&&&&&&&&&&&&&&&&$$$$$$$$Xxxxx++++xx+;x;+;Xxx;xXXxxx+;:;::::::.:....................................::;++xXXxxxXxX$$$$$$&&&&&&
+xxxx+XXXXX$XX$XX$$XX$X$$$$$$$$$XXXXXXXXXXXXXXXXXXXXXxX$XXXXXXXX$X$X$$$$$$$&&&&&&&&&&&&&&&&&$$$$$$$XXXxx++;xx;;;xxX$$xxXXXXxxX+;;;::;x+::::.:............................................:::;+xxxXXX+xX$$
+XXXXXXXXX$$$$$$XX$$$$$$$$$$$$X$$$XX$XX$XXXXxXXXXxXX$$$X$X$$$$$$X$$$$$$$$&&&&&$&&&&&&&&&&&&$$$$$$$XXxxxx++x+;;x$X$$$$$$Xxxxxx+++++;;;;:::::;::......................................................:++;;
+X$XX$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXX$$$$XX$$$$X$$$$X$X$$$$$$XX$$$$$&&&&&&&&&&&&&&&&&&&&$$X$$X$XXxxxxXx+xx$$$$$$$XXXXXXXxxxxx+++;:.....:;:............................................................
+$X$$$$$$$$$$$$$$$$$&$$$$$$$$$&$$$$$$$$$$$$$$$$$$$$X$$$$$$$$$$$$$$$$&&&&&&&&$&&&&&&&&&&&&&$$XXXX$XXXx+xXXXxX&&&&&$X$$XxXXXXXx;;;;::;+;:::::;:............................................................
+$$$$$$$$$$$$$$&$$$$$$$$$$$$$$$&$$$&$$$$$$$$$$$$$$$X$$$$$$$$$$$$$$$$$&&&&&&&&&&&&&&&&&&&&&$$$XX$XXXxxx$X$$$&&&&$$$X$$$$$XXxx+:;;;:;:...:++;::............................................................
+$$$$$&$$$$&&&&&&&&&$&&&&&&&&&&&&&$&&&$&&$$$$$$$$$$&$$&$$$$$$$$$$&&&$&&&&&&&&&&&&&&&&&&&&$$$XXXXXXxxx$$$$&&&&&$$$$$&$$XXXXxxxXxx+:...::;;++::.:....................:.:...:.........:::::.................
+$$$$&$$&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$&&&$&$$&&$$$$$&&&$$&&&&&&&$&&&&&&&&&&&$$$$$$XXXxx$$&&&&&&&$$$$&$X$XXxX++++xx+++x+....+++;:.:....................:.::::::::.:..:::..::.................
+$$$$$&&&&&$&&$&$$&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&$$&$&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&$&&&$$$X$$XXxx$&&&&&&&&&$$$&&$xXxxxXX$$XXxxx++x+;;:;x+;;;..:...................:::::::::.:..:::.::::...:::..........
+&&&&&$$$$$$$$&&$$&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&$$&$$$$$$XxxX&&&&&&&&&&$$$$$$XXXXX$&&&&&&$XxxXxx$XX$x++;:::.....................::::::;:;::;;:::::::::::::::::.....
+&&&&&&&$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$X$X$XXxx&&&&&&$&&&$$$$$XXxX+++$&&&&&&&$xxxXX$$$$Xx++;::..................:.:.:::;;;:;;;;+++;;;;;;;:;;::::::::..
+&&&$$&&$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&$&$$$$&$$$$$$XX&&&&&&$&&&&$$$$$$xXx++;+&&&&&&&xx++$&&&$XXX++;;;:...............::;;::::;;;;;;+;:+++++;++;+;++;+xx+;;;;;
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&$$$$$$$$$$$XX$&&&&&&&&&&&&$XX$$Xxx+;+;+;++++++++X$$&&X$XXXx+;;::............::::;;;;;:;++;++;xx+++++xxx+x++++;+;;;++;;
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$&&$$$$$$$$$$$$$&&&&&&&&&&&&&$$XXX$$xxxx;++;++xx++x$$&&$$$$XXxx++;::............::::;++++++++xx+xx+xXXXXXXXXx++xxX+;+;+;;
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$X$$$$$X$$$$$&&&&&&&&&&&&&&$$XXXXXXxx++x+++++xX$$&&$$$$$XXXXx++;:::.........::::;;+;+++++xxxXXxxXXXXxXXxxXxxx++++x;+xx
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&$$$$$X$$X$$$$$$$$&&&&&&&&&&&&&&&$$XXXXXXXXXXXXXxX$$&&&$$$$$$$XXXx+++;;:::::.::..:::;;++++xxxxxXXXXXXXXXXXxxx+xxXX+++;++;+x
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$X$X$XX$$$$$$$$$&&&&&&&&&&&&&&&&&$$$XXXXXXXXXX$$$$$$$&&&&$$$$$XXxx++;;;:::;:;::;;;;++xxxxx+XxXXXX$$XXXXX$$XXx$XXXxXX++;;+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$X$$$X$$X$$$$$XX$&&&&&&&&&&&&&&&&&&$$$$$$$$$X$$$$$$&&&&&&&&$$$XXxxx+;+;;;;;::;;;+++xxxXXXxxXxX$$$$XXXXXXxXXX++xxxx;xX++++
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$X$X$X$XXX$$$$$$X$&&&&&&&&&&&&&&&&&&&&&&$$$$$$$&&&&$&&&&&&&&&$$$XXxx++;;;;+;;+++++xxxxXxxXXXXXX$$$$XXxXXXXXXXXx++x+x++;+x+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXX$XXXXX$$$$$XXX&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&$$$Xxxx+x+;++;+;++;++xxx+XXXXXXXXXXXXXXXX$$XXXxXxxxxXxxXXXxx+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXX$xXXXX$$$$$XXx$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$XXXXx+++xxx+++;xxxxxXXXXXXXXxXxXXXXXXXxxXXXxxXXxxxxXXXXXxx
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$XXXxxxXX$$$$$XXx$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXXxxxxxxxxxxxXXXXXXXXX$$$$$XxXXxXXXxxXXxxXXXxxxXXXXXXXxx
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$XXXXXxxxxxXXXX$$$XXxx$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXXXxxxxxxxXxxXX$$$X$$XX$XXXXXxxxxxxxxxXXxxX$$$$XXXXXX$$
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXXxxxXxxXXX$$XXxX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXXXXXXXXXXxXXX$$$$$XXxxxxxx++xxxxxx+xxxXXXXxxXXxXXxXXXX
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$XXXXXXXxxxXXXX$XXXX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$XXXXXXxXXXXXXxXXxxxxx++++++xxx+xXxxXXXxXxXXXXXXxXXxxXX
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXXXXxxxxxxxXXXXX$XxX&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$$$XXXXX$xXX+xxx+xx++xx;xxxxxxXxXxXxxXX$$$$$$$$$$$$$$X
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXxXxxxxx+xxxxxxXXXXxX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&$&&$$$$XXXXxXxxxx++++++x+xx+XxXXXXX$XX$$$$$$XX$$$$$$$$$$&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$XXXxxxxxxxx+xx+xxXXXXxxX&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$XXXXxxx+x++x;+++;x+xxxxxXxx+xXXX$X$$$$$$$$$$$$$&$$$$$
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXxx+++++++++++xxxXXX+x$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXXXXxx+++xxxxxxxx+xxxxxxXxX$X$XxX$$$$$$$$$$$$$$$$&$$$$&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$XXXx+++++;++++++xxXXx++$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$X$$X$Xxxxxxx+;+xx++xxxxxx+xXXXxXXXX$$$$XXX$$$X$$$$$$$$$$&&&&$
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$X$XXx+x++;+;+++++xxxxxx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$Xxxxx+x++;+x++++xXxXxxxxxxxXXXXXXXXXX$$$$XX$$$$$$$$&$&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$X$XXXxxx++++;;;;++++xxxxx+x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$Xxxx+xx+++++xx++;++;+++;;;+xxx+xxx+x+xx+++++++++++xXX$$&&&&&&&$&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$XXXXxxx+x+++;;;;;++xxxxxxxx$&&&&&&&&&&&&&&&&&&&&&&&&&$Xxxxxxx+++++x+++x++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::::::::;;++xX$&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXXXXxxxx++++;;;;;;;+xxxxxxXXX&&&&&&&&&&&&&&&&&&$$Xxx++xx+x+++++++x+;;;;;;;;;;;;;;;+;++++;;;;;;;;;;;;;;;;::::::.:::::::::::+x
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXXXXxxxx++++;;;;;;;++x+xxxxXXXXXXXXXXXxxxx+x++++;;;;;;;;;;;;;;;;;++++++++++++++++++++++++++++++++;;;;::::::::.:::::::.:..:
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$X$XXxXx+x++;+;;;;;;;;;+++++++++++++;+;;;;;;;;;;;;;;+;;+++++++xx+xxxxxxxxxxxxxxxxxxxxx++++++x+++++;;;;;:::::::::::::::::::
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$XXXxxxx+++++++++++++++++++++++++++++++++++++++++++++xxxxxxxxxxXXXXxxxxxxxxxxxxxxxxxxxxxXxxx++++++;;;;::::::::::;;;;;+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$XXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxx++xxxxxx++xxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxx+++++;;;:::::;;;;;+xxx
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxXxxxxXXXXXXXXXX$$$$$$$$XXXX$$$$$$$$$$$$XXXXXXXXXXXXXXXxxx++++;;::::;;;;;+xxX
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$X$$$$$$$$$$$$$$$$$$$$$$$$$$XXXXXXXXXXXXXXXXXXXXX$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X$$$XXXXXXxxxx+++;;:::::;;+xXX
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&$$$$$$$&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&&&&&$$&&$$&&&&&&&&&&&$$$$$$$$$$$$$$XXXxxx++;;;;;:::;+x$&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$&&&$$$$$$$$$$$$$$$$$$$$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$$$$XXXxx++;;;;;:::;x&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXXx+++;;;:::;+$&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$XXxx+;;;;;;:;X&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$XXXxx++;;;;;+X
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXXxx++;;;+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXxxx++++
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXXXxx+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$XXXXXx
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXXx
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$XXX
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$XX
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$XX
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$X
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$$$$`,
+`                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                   .    : .:                                                        
+                              .:::+xxxxxXxx++;.                                                     
+                            :;+xX$$$$$$$$$$$$Xxx;;.                                                 
+                          .+x$$$$$$$$$&$&&$X$$$XXXx+;.                                              
+                         :+X$$$&$&&$X$&&$$$$&$$$$$XXXXx+:                                           
+                      ..;x$$&&$$$&$XX$&&&$$$$$$$$$XXXXxx+:                                          
+                      ::x$$&&$$&&$$$X$$$$X$$$Xxx+++++xxxx+;.                                        
+                     :+x$&&&&$$$XX$XXXXXx+x++;;;;;;+++++x+++.                                       
+                    ;+X$&&&&$$$XXXXXX+;.           :+xxxxxx+                                        
+                    ;xX$&&$$$$Xx+;:..                :xx+xx+                                        
+                    :xX$$$$Xx;.                      .;+++++                                        
+                    ;xXX$XX+;                         .;x+++                                        
+                   ;+xxXx+;.                            ;xxx;                                       
+                  ..;+++;:.                              +xX+                                       
+                   .;+++;.                 .;;;:.  .     :xXx                                       
+                    :;;+;.                               .xX+                                       
+                    :;++;.     .;;                        +Xx                                       
+                     :;++. :::...             :+:         :x+                                       
+                       :+;.:                               :                                        
+                        ;;:.   :+x+                                                                 
+                        .+;   .                                                                     
+                         :+:                                                                        
+                          ;+                                                                        
+                           :.           :                                                           
+                            .                                                                       
+                             .                                                                      
+                              :                                                                     
+                                        .                                                           
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                     .                                                              
+                                      ...        ..         .X.                                     
+                                       ........              XXx                                    
+                                  :;                         :xXX;                                  
+                                 ;Xx                          :xXxx:                                
+                              .+xXXX.                         .xxxxxx+.                             
+                            ;xxxxxXx;                          +xxxxx+xxx;.                         
+                         :+xxxxxxXX::                          ;xxxXxx++xx+xx;.                     
+                      ;xxx+xxxxxXXx.                           .xxxXxXX++++xxxxXXx.                 
+                  :xXXxxx+xxxxXXXX+                             xXXXxXXxxx+++xxxXXXXX+              
+               :xXXXXxxx++xXxXxXXX;                             xXxXXXXXxx++++xxxXXXXXXXx;          
+             +XXXXXXxxxx+xXXXXXXXX;                             xXxXXXXXXxx+++xxxxXXXXxXXXXx:       
+          +xXXXXXXXXXxx+xXXxXxXXXX:                            +xX$XXXXXXXxxx+xxxXXXXXXXXxxXXX:     
+         +xxxXXXXXXXxxxxXxxXXXXXxx+                           :xxXX$xxXXXXXxxxxxxXXXXXXXXXXxXXXx    
+        ;xxxXXX$$XXXxxxxxX$&XXXXxxx                           ;xXxXXxxX$XXXXxxxxxXXXX$XXXXXxxxXXx   
+       ;xxxXXX$$$XXXxxxXX$$$xXxxxXx.                          xXXXX$$$$$$XXXxxxXxXXXX$XXXXXxxxxXXx  
+       xxxXXXX$$$XXXXxxXXX$$xXxxxXX:                         .xXXXXX$$$$XXXXxxxXxXXXXXX$XXXXxxxxxX: 
+      .XxxXXXX$$$XXXXxxxXX$XXxxxxXX+                         :XXXxXXXXXXXXXXxxxxxxXXXXXXXXXxxxxxxXx 
+      ;xXxXXXXX$$XXXxxxxXXXXxxx+xXXx                         ;XXXxXXXXXXXXXXxx+xxxxXXXXXXXXxxxxxxxX:
+      +xxxxXXXX$XXXXxxxxXXXXxxx+xxXx                         ;xXxxXXXXXXXXXxxx+xxxxxXXXXXXxxxxxxxxXx
+     .xxxxxXXXXXXXXXx+xxXXXxxxXxxxXx                         +xxxxxXXXXXXXXXxx++xxxxXXXXXXxxxxx+xxXX
+     ;Xxxx+xXXXX$XXXxxxXXX$Xxxx++xxx                         +x+++xXXXXXXXXXXxx+xxxXXXXXXXXXXXx+xXXX
+     +XXxxxxX$X$$$XXxxXXXX$Xxxxx+xxx.                        x++++xXXXXXXXXXXXxx+xxXXX$$$$XXXxxxxXXX
+    .XXXxxxxXX$$$$$XxxXX$$$Xxxx+++xx;                        x++xxxxX$$$XXXXXXxxxXxXXX$$$$XXXXxxxXX$
+    .X$XXxxXXX$$$$$$XXXX$$$Xxxx+++xX+                       .xxxxxXx$$$$$$$XXXXxxxxXXX$$$$$$XXXxXX$$
+    .XX$XXxXXX$$$$$$$XX$$$$Xxx++++xX+                       :xxxxxXX$$$$$$$XXXXXxxxxX$$$$$$$XXXXXX$$
+    .XXXXXXxXXX$$$$$XXX$$$$Xxxxx+xxXx                       :xxxxXXX$$$X$$XXXXXXxxxxX$$$$$$$XXXXXXXX
+    :XXXXXXxxXXX$$$$$XXX$$XXXXxx+xxXx                       :xxxXXX$XXXXXXXXXXXxxxxxX$$$$$$$XXxxxXXX
+    ;XXXXXxxxXXX$$$$X$$X$XXXXXxx++xXx                       :xxxXXXXXXXXXXX$XXXxxxxxX$$$$$XXXXxxxxXX
+    ;XXXXXxxxxxXX$$$XXXXXXXXXXxx+xxXx                       .xxxXXXXXXXXXXXXXXXxxxxxX$$$$$XXXXxxxxXX
+    ;XX$XXxxxxxXX$$$$$XXXXXXXXxx++xXx                        +xxXXXxxxXXXX$XXXXxxxxxX$$$$XXXXxxxXXXX
+   .xXXXXXxxxxxXXX$$$$$X$XXXXXxxX+xxx                        +xxXXXxxXXXX$$$XXXXXxxXX$$$$XXXXXXXXXX$
+    :X$$XXxxxXXX$$&&&&$$$$XXXXxxX++x+                        +xxXXXxXXXXX$$$$$$XXxXXX$$$$$$XX$X$XXX$
+.....x$$$XXXXX$$$$$&&&$$$$XXXXxx+++xx                        ;xxXXxXXXXX$$$$$$$XXxXXX$$$$$$$$$XXXX$$`,
+`                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                           ↖↖    ↖↖                                                 
+                                     ↖↖↖←↓↓↙↙↙↙↙↓↓↓↓↙←←←↖↖                                          
+                               ↖←←←←↙↓↙↙↘↘↘↘↘↘↓↘↘↘↘↘↓↓↓↓↓↙←↖                                        
+                              ↖←↓↘↘↘↘↓↘↘→↘↘↓↘→→→↘↘↘↘↘↘↘↘↓↓↓↓↓↙↖                                     
+                           ↖↖↖↙↓→→→→↘↘↘→↘↓→↗↗→↘↓↘↘→↘↓↓↘↘↘↘↓↘↓↙←↖                                    
+                           ←↘→→↗↗↗→↓↘→↘↘↘↗↑↗↘↓↓↘↘↓↓↘↘→↘↓↓↓↘↘↓↓↓↙←↖                                  
+                          ←↘→→↗↑↑↗↘→↑↗↘→↑↗→↓←↓→↘↘↓↓↙←←←↙↙↙↓↓↘↘↘↘↓↓↙←                                
+                         ↖↓↓↘↗↑↑↗↘↗↑↗→↗↗↘↙↙↓→→→→→↗→↘↓↓↓↘↘↘↘↘↘↓↓↓↓↓↙↖                                
+                       ↙↓→→→↑↑↑↗→↑↑↗↗→↘↓↓↘↘→↗↗↗↗↗↗↗↗→→↘↘↘↘↓↓↘↘↘↘↘↘↘↓←                               
+                     ↖↓↘→↗↗↑↑↑↑↗↑↑↗↗→→→↗→→→→↘↘↘↘↘↘↘↘↓↓↓↓↓↓↘↘↓↓↘↘↘→↘↓←↖                              
+                    ↖↙→↗↗↗↑↑↑↑↑↑↗→→→→→↘↘↓↙←          ↖↖←←↙↙↙↓↘↘↘↘→→→↓←                              
+                   ↖↙↓→↗↗↗↑↑↑↗→→↘↓←↖                     ↖↖←↓↘→→↘→→→↘↙                              
+                   ←↙↓↘→↗↗↗↗→↓←                             ↖↙↘→→↘↘→→↓                              
+                  ↖↖↙↘→→→→→↘←                                ↖↙↘↓↓↘↘→↘                              
+                  ↖↖↙↓↘↘↘↘↘←                                  ←↓↘↓↓↘↘←                              
+                   ↖↙↓↓↓↓↓↙                                    ↙↘↘↘↘↘↖                              
+                   ←↙↙↓↙↙↙←                                     ↙↘↘→↘←                              
+                  ↖←←↓↓↙↓↙↖                                      ↓↘→→←                              
+                    ↖↘↘↘↘↙↖                     ←↓↓↙↙←↖↖         ↙→→→↙                              
+                    ↖↘↘↘↘↙↖                                ↖     ↙↘→↘↙                              
+                     ↙↘↘↘↓↖ ↖↖↖←↓↙↓↙←                            ↙↘→↘←                              
+                       ↙↘↘←←↙←                     ↓↙↘↙←         ←↘→→←                              
+                       ↖↓↘↙←←                       ↖            ↖↘→↓                               
+                        ←↓↓←↖    ↙↓↘↓                             ↓←                                
+                         ↙↘↙   ↖↖  ↖                              ↖                                 
+                         ←↘↘                                                                        
+                          ↙↘                                                                        
+                          ↖↓↖                                                                       
+                           ↖↖                 ↖↓←                                                   
+                            ↖                                                                       
+                             ↖                                                                      
+                              ↖                                                                     
+                              ↖↖                                                                    
+                               ↖↖        ←←                                                         
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                   ←↖                                                               
+                                   ↖↖←↖↖                                                            
+                                   ↖↖ ↖←←↖                                                          
+                                   ↖    ↖←←←       ↖                                                
+                                ↖↓↘←     ↖↖↖   ↖                                                    
+                       ↖←←←↙↓↘→→→→↓↖      ↖↖                                                        
+                     ↙↘→→↘↘↓↘↘→→↘↘←↖       ↖↖                       ↖                               
+                   ↖↙→→→→↘↘↘↘↘↘→↘↓↙         ↖                                                       
+               ↖↙↘→→↗→→→↘↘↘→→↘↘↘↘↘↙          ↖                                                      
+            ↖←↘→→→↗↗↗→→→→→↘↘↘↘↓↓↓↓↓↖                                                                
+      ↖↓↓↘↘↘↘→→→→→↗↗→→→→↗→↘↘↘↓↓↙↓↓↓↓                                                                
+     ↙→→↘↘↘↘↘→→→→→→→→→→→→→→→↘↘↓↓↙↓↓↘↓                                                               
+   ←↘→→→→↘↘↘↘↘→→→→→→→→→→↘↓→↗→↘↘↘↓↙↓↘↘↙                                                              
+  ↓→→→↘↘↘↘↘↓↘↘↘↘→→→→→→→→↘↘↘→→→→↘↘↓↓↓↘→↙                                                             
+↖↘→→→→↘↘↘↓↘↓↘↘↘→→→→→→→→→→↘→↘→→↗↗→↘↓↘↘→→←                                                            
+↓→→→→→↘↘↓↓↓↘↘↘↘→→→→→↗→→→↗→→→→→↗→↗→↘↓↘↘→→↖                                                           
+→→→→→→↘↘↓↓↘↘↘↘↘→→↗↗↗↗→↗↗→→→→→→↗→→→→↓↓↘↘→↘                                                           
+→→→→→→↘↘↓↓↘↘↘↘↘→→↗→→→→↗↗→→→→→→↗↗→→→↘↓↘↘→→←                                                          
+↗↗↗→→→→↘↘↘↘↘↘↘↘→→→↗↗↗↗↗↗→→→→→→↗↗→→→↘↘↓↘↘→↓                                                          
+↗↗↗→→→→→↘↘→→→→→↘→→↗↗↗↗↗↗→→↘↘→→→↗→→→→↘↘↘↘↘↘                                                          
+↗↗↗→→→→→↘↘→→→→→→↘→↗↗↗→↗→→→↘↘↘→→↗↘→→→→↘↓↓↓↘←                                                         
+↗↗↗→→→→→↘↘→→→↗↗→↘→→↗↗→→→→→↘↘↘→→↗→→→→↘↘↘↓↘↘↓                                                         
+↗↗↗→→→→→↘↘→→→→↗→↘→→↗→→→→→→↘↘→→↗↗→→→→→↘↘↓↓↘↘←                                                        
+→→→→→→↘↘↘↘↘→→→↗↗→↘→→→→→→→→↘→→→↗↗→→→→→↘↘↘↓↓↘↘                                                        
+↗↗→→→↘↘↘↘↘↘→→→→↗↗↘→→→→→→→→→→→↗↗↗→→→→→↘↘↘↓↓↘↘↙                                                       
+→↗→→→↘↘↘↓↓↘↘→→→↗↗→↘↗↗↗↗→→→→→→↗↗↗↗→↗→→→→↘↘↓↘↘↘                                                       
+→→↗→→↘↘↓↓↓↘↘↘→→↗↗→→↗↗↗↗↗↗↗→→→↗↗↗↗↗→→→→→→↘↘↘↘↘↓                                                      
+↗↗↗↗↗→↘↘↓↘↘↘↘→→↗↗↗→↗↗↗↗↗↗↗→→↗↗↗↗↗↗→↗→→→→↘↘↘↘↘↘↖                                                     
+↗↗↗↗→→→↘↓↘↘↘↘→→↗↗↗↗↗↗↗↗↗↗→→→↗↗↗↗↗↗↗↗→→→→↘↘↘↓↘↘↘                                                     
+↗↗↗↗→→→↘↘↘↘↘→→→→↗↗↗↗↗↗↗↑↗→→→↗↗↗↗↗→→→→→→→→↘↘↘↘↘↘←                                                    
+↗↗↗↗↗→→↘↘→→↘→→→→↗↗↗↗↗↗↗↗→→→→↗→↗↗→→→→→↘↘→→↘↘↘↘↘↘↘                                                    
+↗↗↗↗↗→→→↘→→→→↗↗↗↗↗↗↗↗↗↗↗→→→→→→↗→→→→→→↘↘↘→→↘↘↘↓↘↘↙                                                   
+↗↗↗↗↗↗↗→→↗↗↗↗↗↗↗↗↗↗↗↗↗↗→→→→→→→→→→→→→→↘↘↓↘→↘↘↘↓↓↘↘                                                   
+↗↗↗↗→→→↗↗↗↗↗↗↗↗↗↗↗↗↑↑↗↗→→→→→→→→→→→→→→→→↘↘→↘↘↘↘↓↓↘←                                                  
+↗↗↗↗↗→→→→↘→→↗↑↑↗↗↗↗↗↗→↗→↘→→→→→→→→↗↗→→→→↘↘↘↘↘↘→↘↓↘↓                                          ↖       
+↗↗↗↗↗↗↗↗↗→↘↘↓↘→↗↑↗↗↗↗↗↗→↘→→↗↗↗↗↗↗↗↗↗→→→→↘↘↘↘↘↘↘↓↘↘                                         ↖        `,
+`                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                 1                                                  
+                                            33545222525521777                                       
+                                       735554998699666666445237                                     
+                                   112446646800888899996664545553                                   
+                                71246996468089989996688999966664527                                 
+                               12698994598896988966666964446664445527                               
+                              3688898490889968889469666994522464444553                              
+                          771268898960000998886455644553111125544664427                             
+                          7329886880000099896454699996444444644466664537                            
+                        7134980900000088896445211111325555555554446964537                           
+                        734900800000889645231           7111325466666445                            
+                      7124988888945223317                   7712569666441                           
+                      73569988941                             7124644665                            
+                     11124699651                                15464464                            
+                      712444453                                  3464445                            
+                      715455527                                   346994                            
+                       35455537                                    299967                           
+                      13644451                    755523177        369997                           
+                       7666641       7             717       17    16996                            
+                        3546637132225521            7 77           16996                            
+                         724623527    777           75457 1        74994                            
+                          156523   13527              1             294                             
+                           34431  111447                            357                             
+                            2427  77                                                                
+                            145                                                                     
+                            735                                                                     
+                             727                                                                    
+                              71                 73                                                 
+                               17            17                                                     
+                                37                                  7                               
+                                 37                                                                 
+                                 717                                                                
+                                  177       717                                                     
+                                    7                                                               
+                                     7                                                              
+                                     77777                                                          
+                                     731777                                                         
+                                     777131                                                         
+                                     71777331                                                       
+                            77777    777  713317  777777                                            
+                           777 77777  77   71177777                                                 
+                           777777777352      177                      7                             
+                         77777713246951      777                                                    
+                      777773254699666177      777                                                   
+                7777777146644466996461         777                                                  
+            77777777777566666446699453           77                                                 
+           777777777126996666964466643                                                              
+         777777771569899996664455444441                                                             
+     77777771115999999999996664455544647                                                            
+7777777771546666999999996666966445544664                                                            
+77777777266466666999999999646996645546994                                                           
+777777756666444666999999996669999944446992                                                          
+7777714666444446699999999999999998964466991                                                         
+7777149664446646699999999999999988994446996                                                         
+11114996644444466999999999969999889994446662                                                        
+11149999664446666698999999969999999996444666                                                        
+112999996644666666698989999666699996996444663                                                       
+136888999666666666698889999666699966666654464                                                       
+1498889999666699966998999996466699966666644443                                                      
+2988889999666699996699999996666998969696455444                                                      
+98888899996666699996699999966699989999664455462                                                     
+988899999666666999966999999969998899999664454663                                                    
+9998999666666669999966999999999988899999666444667                                                   
+9998999964446666999996998898999888999999966644664                                                   
+99999996664466669999999888889998988999999966644462                                                  
+999989996645644669989888888899998889999999964444667                                                 
+999898999664666669999988888899998899999966666444462                                                 
+9999999996646666699999888889999998999996666664444467                                                
+8888889999666669999888888889699998999996646666444445                                                
+88888899996699999988888888899999999999666444664445467                                          77   `,
+`                      ▒█████████████████████████████████████████████████████████▒                   
+                     ▓████████████████████████████████████████████████████████████                  
+                    ███████████████████████████████████████████████████████████████▒                
+                   █████████████████████████████████████████████████████████████████▒               
+                  ▓██████████████████████████████████████████████████████████████████░              
+                 ▒███████████████████████████████████████████████████████████████████▓              
+               ▓██████████████████████████████████████████████████████████████████████░             
+             ▒███████████  ████  ██  █       ██      ████   ████   ██      ███████████░             
+            ▒████████████  ████  ██  █  ███  ██  ████████    ██    ██  ███████████████▓             
+            █████████████        ██  █       ██      ████  █ ██ █  ██      ████████████             
+            █████████████  ████  ██  █     ████  ████████  █    █  ██  ████████████████░            
+            █████████████  ████  ██  █  ██   ██      ████  ██  ██  ██      ███████████▓             
+            ██████████████████████████████████████████████████████████████████████████░             
+            █████████████████████████████████████████████████████████████████████████▓              
+            █████████████████████████████████████████████████████████████████████████▓░             
+            ▓████████████████████████████████████████████████████████████████████████▓░             
+            ▒█████████████████████████████▓███▓▓▓▓▓▓▓████████████████████████████████▓░             
+             ████████████████████████████████████████████████████████████████████████▓              
+             ▓█████████████████████████████████▓█▓▓▓███████████████████▓████████████▓▓              
+             ▓███████████████████████████▓▓▓▓▓▓█▓▓█████████████████████████████████▓▓▒              
+             ▒███████████████████████████▓▓██████▓▓▓██▓▓█▓█████████████████████████▓▓▓              
+             ░███████████████████████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓█████████████████████████▓░              
+             ▒███████████████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███████████████████████▓░              
+             ▓████████████████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█████████████████████▒              
+             ▓▓▒▒▒▒░░░░░░░░▒▓████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓████████████████████▓              
+                             ▒▓██▓▓▓▓▓▓▒░           ░▒▓▓█▓▓▓▓▓▓▓▓▓▓▓█████████████████▓              
+                             ▒▓▓▓▒▒                      ░▒▓▓█▓▓▓▓▓▓▓▓██████▓▓████████▒             
+                     ░░░░░░▒▓▓▒░                             ░▒▓███▓▓▓▓▓██████████████▓             
+                  ░▒▓████▓▓▒                                     ▒▓███▓▓▓▓████████████▓             
+                  ▒███▓▓▒░                                          ▒▓███▓▓▓▓██████████             
+                   ▒▓▓▓▒                                              ░▒▓██▓▓▓▓▓██████▓             
+                    ░▓▒                                                  ░▓▓▓▓▓▓▓▓████▒             
+                                                                       ░░▒▒▒▒▒▒▒▒▒▒▒▒               
+                                                                ░▒▒▒▒▒░▒▒▒▒▒░   ░                   
+                                                         ░▒▓▓▓▓▓▓▓▒▒░░░                             
+▒                            ▒▒▒▒▒▒▒▒▒▒░░░              ░░▒░▒▓▓█▓▓▓▓▓▒░                             
+░░      ░                  ░▒▒▒▒▒▓▓▓███▓▓▒▒░            ░    ▒█▓█▓░  ░░                             
+ ░      ░                 ░░░░▒▒▓▓▓█▒▓▒    ░░░                ▒▒▒░                                  
+ ░      ░                ░░░░▒▒░ ░▓██▓░       ░                                                     
+                            ░░░                                                                     
+                                ░                                                                   
+                      ░░                                                                            
+                     ▒▒░░                                                                           
+                    ▒▓▓▒░                                                                           
+                     ▒▓▓░░                                                                          
+                      ░▓▒░░                  ░░                                                     
+                         ░░                  ░░                                                     
+                          ░░░                ░░                                                     
+                           ░░░              ░░                                                      
+                           ░▒░░             ░░░                                                     
+                            ▒▒░                ▒▒░                                                  
+                             ▒▒░░                                                                   
+                              ░░░░                                                                  
+                               ▒▒░░                                        ░                        
+                                ▒▒░░░                                     ░                         
+                                 ▒▒▒░░       ░░░░░░░░░░░                ░░░                         
+                                  ▒▒▒▒░░                               ░░ ░                         
+                                 ▒▓▓▓▒▒░░░                            ░   ░                         
+                              ▒▓▓▓▓▓▓▓▒▒▒░░░░                        ░    ░░                        
+                            ▒▓██▓▓▒▒▒▓▓▓▒░░░░░░                    ░       ░░                       
+                        ░▓▓▓████▓▒▒▒▒▒▒▓▓▒░░                               ░░░                      
+                      ░▓█████████▓▒▒▒░░░▒▓▓▒░    ░                         ░░░░░                    
+                ░░▒▓▓█████████████▓▒░░░░ ░▒▓▓░░  ░░           ░            ░░░░░░░                  
+           ░▒▓▓█████████████████████▒░░░    ░▒▓▒░░░▒▒░░░░▒▒░░               ░░░░░░░░                
+   ░▒▒▓▓▓▓████████████████████████████▒░                                     ░░░░░░░░░              
+▓▓██████████████████████████████████████▓▒                                    ░░░░░░░   ░▒▓▒        
+███████████████████████████████████████████▓░                                   ░░░░░   ░▓██▓▒░     
+██████████████████████████████████████████████▓▒                                   ░░░▒▓███████▓▓▒░ 
+██████████████████████████████████████████████████▓░                              ░░▒▓████████████▓▒
+██████████████████████████████████████████████████████▓▓░                    ░░▒▓▓██████████████████
+█████████████████████████████████████████████████████████████▓▓▓▓▒▒▒▒▒▓▓▓███████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████`,
+`                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                               -+###+++-+##++.                                                          
+                                                                                                                          -#######################+                                                     
+                                                                                                                       -###########################+                                                    
+                                                                                                                    +################################                                                   
+                                                                                                                  -##################################+                                                  
+                                                                                                                  #####################################-                                                
+                                                                                                                  -####################################+                                                
+                                                                                                              .+######################################-.                                                
+                                                                                                           .###########################################+#.                                              
+                                                                                                          +#############################################-                                               
+                                                                                                        .-+############################################-+                                               
+                                                                                                          #############################################                                                 
+                                                                                                         ##############################################.                                                
+                                                                                                        ###############################################+                                                
+                                                                                                       +##############################################-                                                 
+                                                                                                       ##############################################+                                                  
+                                                                                                      +##+#######################################+##-                                                   
+                                                                                                      ##++#######################################+##                                                    
+                                                                                                      #++########################################+##                                                    
+                                                                                                      #+#########################################+#-                                                    
+                                                                                                     +++########################################++#                                                     
+                                                                                                     #++#######################################++++                                                     
+                                                                                                  ###+++######################################++++                                                      
+                                                                                                 ####++######################################+-++                                                       
+                                                                                                 ####+#######################################+--                                                        
+                                                                                                ####++#######################################+-                                                         
+                                                                                                ####++#####################################+++                                                          
+                                                                                                ####-#####################################++-.                                                          
+                                                                                                 ###++####################################++.                                                           
+                                                                                                 +##+######################################-.#                                                          
+                                                                                                    +#####################################+-#                                                           
+                                                                                                    +####################################+-++                                                           
+                                                                                                    ####################################+-##                                                            
+                                                                                                    +##################################+-##                                                             
+                                                                                                     +#################################--                                                               
+                                                                                                     .################################+-                                                                
+                                                                                                      +##############################+                                                                  
+                                                                                                     --+############################+                                                                   
+                                                                                                     -#-+##########################+                                                                    
+                                                                                                     -##++########################-                                                                     
+                                                                                                     -###########################+                                                                      
+                                                                                                     +###########################+                                                                      
+                                                                                                     ############################.                                                                      
+                                                                                                    .#############################+                                                                     
+                                                                                                   ################################                                                                     
+                                                                                                 ####################################                                                                   
+                                                                                                ######################################                                                                  
+                                                                                              #########################################+                                                                
+                                                                                            #############################################+                                                              
+                                                                                          #################################################                                                             
+                                                                                       ######################################################                                                           
+                                                                                   +######################################++####################                                                        
+                                                                             #########################################++++#########################+                                                    
+                                                                       ##########################################+-----++#++############################+                                               
+                                                                    #######################################++---------+#+++###################################                                          
+                                                                  ##########################+----.---..-------------+##++++######################################.                                      
+                                                                -##########################++-------------------+++##+++++##########################################.                                   
+                                                              -#############################++----------+++++---+#++++-++##############################################                                 
+                                                             #############################++------------------+#++----++################################################                                
+                                                            ##############################+----------------+##++-------+#################################################                               
+                                                          -##############################+---------------##+----------+##################################################.                              
+                                                          ##############################++------------+++--+---------+###################################################-                              
+                                                         ###############################+----------##+----+---------+#####################################################                              
+                                                        ###############################+###---+++#+----------------++#####################################################                              
+                                                        ##############################++---+#+++--------+---------++######################################################+                             
+                                                       ##############################+++--.-.---------+-----------+########################################################                             
+                                                       ##############################++----+++-------+-----------+##########################################################                            
+                                                      ##############################++--------------+-----------+###########################################################+                           
+                                                      #############################+++-----------++------------++############################################################                           
+                                                     #############################+++--------+-----------------+#############################################################                           
+                                                    +#############################+++-----------+-------------++#############################################################                           
+                                                    #############################++++--------------+---------++##############################################################                           
+                                                   .#############################++++--+-----+-+++----------++###############################################################                           
+                                                   #############################++++-+++--+-++++++-++----+--++###############################################################                           
+                                                   #############################+++++++++++++++-++----+-++-++################################################################                           
+                                                  +############################++++++++++-+++++++++++---++-++################################################################                           
+                                                  #############################++++++++++++++++++++--++--+++#################################################################                           
+                                                 .##############################+++++++++++++++-++--+++++-+##################################################################                           
+                                                 ##############################++++++++++++++++++++++++++++##################################################################+                          
+                                                +##############################++++++++++++++++++++++++++++###################################################################                          
+                                                #############################+++++++++++++++++++++++++++++####################################################################                          
+                                               +##############################+++++++++++++++++++++++++++#####################################################################                          
+                                              -#############################+++++++++++++++++++++++++++++#####################################################################                          
+                                              +############################+++++++++++++++++++++++++++++######################################################################                          
+                                             -#############################+++++++++++++++++++++++++++++######################################################################                          
+                                             +############################++++++++++++++++++++++++++++++######################################################################                          
+                                            -############################++++++++++++++++++++++++++++++#######################################################################                          
+                                            +###########################+#++++++++++++++++++++++++++++########################################################################                          
+                                            +############################+++++++++++++++++++++++++++++########################################################################                          
+                                           +##############################++++++++++++++++++++++++++++########################################################################                          
+                                           +##########################+++++++++++++++++++++++++++++++#########################################################################                          
+                                           ###########################+++++++++++++++++++++++++++++++#########################################################################                          
+                                          -#########################+##++++++++++++++++++++++++++++++########################################################################                           
+                                          ##########################++++++++++++++++++++++++++++++++#########################################################################                           
+                                          ############################+++++++++++++++++++++++++++++##########################################################################                           
+                                          ##########################++#++++++++++++++++++++++++++++##########################################################################                           
+                                         ###########################+#++++++++++++++++++++++++++++###########################################################################                           
+                                         ##########################+++++++++++++++++++++++++++++++###########################################################################                           `,
+`---------------------------------------------------------------.--..---.................................................................................................................................
+--------------------------------------------------------------...-......................................................................................................................................
+--------------------------------------------------------------.....-....................................................................................................................................
+----------------------------------------------------..------...-........................................................................................................................................
+----------------------------------------------------------..--..........................................................................................................................................
+--------------------------------------------------------................................................................................................................................................
+--------------------------------------------.------.-...................................................................................................................................................
+---------------------------------------....---..........................................................................................................................................................
+-------------------------------------------.............................................................................................................................................................
+------------------------------------.---................................................................................................................................................................
+-------------------------------------...................................................................................................................................................................
+----------------------------------......................................................................................................................................................................
+-----------------------------------..-..................................................................................................................................................................
+----------------------------------......................................................................................................................................................................
+--------------------------------........................................................................................................................................................................
+--------------------------------........................................................................................................................................................................
+---------------------------.............................................................................................................................................................................
+--------------------------..............................................................................................................................................................................
+-----------------------.................................................................................................................................................................................
+----------------------..................................................................................................................................................................................
+-----------------------..-..............................................................................................................................................................................
+--------------------....................................................................................................................................................................................
+-------------------.-...................................................................................................................................................................................
+-------------------.....................................................................................................................................................................................
+-------------.-.---.....................................................................................................................................................................................
+----------------........................................................................................................................................................................................
+--------------....-.....................................................................................................................................................................................
+----------------.....................................................................................-+++#####+++-......................................................................................
+--------------.-.................................................................................-++#############+++-...................................................................................
+--------------..................................................................................-+################+++-..................................................................................
+--------------..................................................................................-+#################++-..................................................................................
+---------------.................................................................................-+##################+-..................................................................................
+---------------.................................................................................-+#################++...................................................................................
+-------------...........................---......................................................-################++....................................................................................
+---------------.......................-#####+--.................................................-################++-....................................................................................
+-------------.-......................-#####+++#+--..............................................-+#############+++-.....................................................................................
+---...---.---........................-#######--++++-..............................................+###########++++-.....................................................................................
+--....................................-+#++-+###-+++-..............................................+##########++++++-...................................................................................
+........................................-++#++--######+...........................................-+#########++++++++-..................................................................................
+.-....-........-...........................-+++#+-#######+-.....................................+#############+++++++++-................................................................................
+...................-..........................-+---+########+-...............................-+################++++++++++...............................................................................
+........--...........................................-+########+-++.........................-###################++++++++++-...........................................................................  
+....--.-................................................-+#########-.......................+#####################+++++++++++.........................................................................   
+.--....-.....--............................................-+########+-..................-+######################++++++#+++++....................................................................... .. 
+......--------..............................................-###########+-.............--+########################+++#+##+++++......................................................................    
+.-..........-.................................................+############+-.......-#############################++#####+++++-.................................................................        
+---...--...-.-................................................-+##############+...-################################+######+++++-...............................................................  ...    
+---------..-...-.-...............................................-#################################################+#####++##+++-...............................................................  ..    
+---------------.------..-.-.......................................-+###############################################+######++#+++-...............................................................        
+-----------------------.-..-.---.....................................+#############################################+######+##++++............................................................... .      
+---------------------------------.-...................................-+###########################################+#####++##+++++...............................................................   .   
+-----------------------------------.....................................--+########################################+######+###++++..................................................................    
+----------------------------------.-.......................................-#######################################+######+####+++-.................................................................    
+-------------------------------------.......................................+######################################+######+#####++-................................................................. .. 
+----------------------------------------..--................................-#############################################+######+-..................................................................  .
+----------------------------------------------...............................+############################################+######+...................................................................  .
+------------------------------------------------..............................+###########################################++#####-..................................................................... 
+-----------------------------------------------------..........................-#######################################+#++##+---.......................................................................
+-------------------------------------------------------..........................-+####################################++++.............................................................................
+-------------------------------------------------------------...-...................---++################################+..............................................................................
+---------------------------------------------------------------------....---------........-#########################+++++-..............................................................................
+-----------------------------------------------------------------------------------------..-#########################++++-..............................................................................
+--------------------------------------------------------------------------------------------+#########################+++-..............................................................................
+--------------------------------------------------------------------------------------------+###########################+-..............................................................................
+--------------------------------------------------------------------------------------------+#####################++###++-..............................................................................
+---------------------------------------------------------------------------------------------+##########################+-..............................................................................
+--------------------------------------------------------------------------------------------+##########################+-...............................................................................
+-------------------------------------------------------------------------------------------+##########################++-...............................................................................
+--------------------------------------------------------------------------------------------+##########################+-...............................................................................
+--------------------------------------------------------------------------------------------###########################-.....-..........................................................................
+--------------------------------------------------------------------------------------------###########################-----------------------.-........................................................
+--------------------------------------------------------------------------------------------+#########################+------------------------------------.--..........................................
+--------------------------------------------------------------------------------------------+##########################---------------------------------------------....................................
+--------------------------------------------------------------------------------------------+#########################+-----------------------------------------------..................................
++--------------------------------------------------+++---------------------+----------------+########################+------------------------------------------------------............................
+++++++++++++----------------------------------------++---------------------+----------------+########################---------------------------------------------------------------....................
+--------+++++++++++++++++++++-----------------------+----------------------+----------------+#######################+-----------------------------------------------------------------------............
+---------------------------+++++++++++++++++--------+----------------------+----------------+#######################+-----------------------------------------------------------------------------------
+--------------------------------------------++++++++++--------------------++-----------------#######################+-----------------------------------------------------------------------------------
+-------------------------------------------------------------------------++++----------------+######################------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------++++++++######################+------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------+######################+++++++++-------+++++++++++++++-----------+----++-----------------------------------
+---------------------------------------------------------------------------------------------+####################+--------++--+++-++++++#++++++++++++++++++++++++++++---------------------+++++++######
+----------------------------------------------------------------------------------------------##########++#########---.....--.....-..-------------+++++++++++++++++++++++-----.-+-++-+++################
+----------------------------------------------------------------------------------------------##########++#########-------------------......................---------++++++++++++++++###################
+----------------------------------------------------------------------------------------------+#########--#########-.................-----------------------...................--------++++++###########
+----------------------------------------------------------------------------------------------##########+-+########-..................................................--.----.....................------
+----------------------------------------------------------------------------------------------+#########+--########+....................................................................................
+----------------------------------------------------------------------------------------------+##########--+########-...................................................................................
+++---------------------------------------------------------------------------------------------##########--#########-...................................................................................
+#######+++-------------------------------------------------------------------------------------##########+-+########-...................................................................................
+################++-----------------------------------------------------------------------------+#########+-+########-...................................................................................
+#######################+------------------------------------------------------------------------##########-+########+...................................................................................
+##############################++----------------------------------------------------------------+#########-+########+...................................................................................
+###################################++------------------------------------------------------------#########+#########+...................................................................................
+########################################++-------------------------------------------------------#########+#########+...................................................................................
+#############################################+---------------------------------------------------+########++########+-..................................................................................
+##################################################++---------------------------------------------+########+-#######+-...................................................................................
+########################################################++----------------------------------------########+--######-....................................................................................
+################################################################++--------------------------------#########--######-....................................................................................
+########################################################################+-------------------------#################+---.................................................................................
+##############################################################################++-------------------################+-..----.............................................................................
+#####################################################################################+-----------+#################+-.------............................................................................
+###########################################################################################++######################----..------.........................................................................
+###################################################################################################################+...------...........................................................................
+###################################################################################################################+----------...-.-....................................................................
+###################################################################################################################+----------..-------.................................................................
+########################################################################################################################++---.---------.......-------.......-----.......................................`];
