@@ -31,7 +31,6 @@ function LandingPage() {
         setWhatIDoVisible(true);
       }
 
-      // Check if scrolled to bottom
       if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 2) {
         setAsciiArtIdx(prev => (prev + 1) % asciiArts.length);
       }
@@ -41,9 +40,7 @@ function LandingPage() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const lightModeFace = "/assets/headshotLight.png";
-  const darkModeFace = "/assets/headshotDark.png";
-  const faceSrc = isDarkMode ? darkModeFace : lightModeFace;
+  // const darkModeFace = "/assets/headshotDark.png";
 
   const redirectToContactPage = () => {
     navigate("/contact");
@@ -144,7 +141,7 @@ function LandingPage() {
           <span>Contact me</span>
         </Link>
       </div>
-      {isDarkMode ? (
+      {isDarkMode && (
         <pre
           className="hero-face-ascii"
           style={{
@@ -164,8 +161,6 @@ function LandingPage() {
             marginLeft: "38vw"
           }}
         >{asciiArts[asciiArtIdx]}</pre>
-      ) : (
-        <img src={faceSrc} alt="Headshot" className="hero-face"/>
       )}
     </section>
 
