@@ -40,8 +40,6 @@ function LandingPage() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // const darkModeFace = "/assets/headshotDark.png";
-
   const redirectToContactPage = () => {
     navigate("/contact");
   };
