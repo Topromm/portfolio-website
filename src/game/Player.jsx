@@ -8,9 +8,8 @@ import { MTLLoader } from 'three/examples/jsm/loaders/MTLLoader'
 
 export default function Player() {
   const ref = useRef()
-  const [lane, setLane] = useState(1) // middle lane
+  const [lane, setLane] = useState(1)
 
-  // Load MTL and OBJ with materials
   const materials = useLoader(
     MTLLoader,
     '/assets/NoBrakes/bmw-m5-e60/2009_BMW_M5_E60.mtl'
@@ -48,9 +47,8 @@ useEffect(() => {
         [-2, 0, 2][lane],
         0.1
       )
-      ref.current.position.z -= 0.1 // move forward
+      ref.current.position.z -= 0.1
 
-      // Camera follows behind and above the car
       const carPos = ref.current.position
       camera.position.lerp(
         new THREE.Vector3(carPos.x, carPos.y + 5, carPos.z + 10),
