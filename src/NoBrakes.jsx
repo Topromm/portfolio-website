@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
@@ -27,7 +26,6 @@ export default function GamePage() {
 
   return (
     <div style={{ width: '100vw', height: '100vh', position: 'relative', overflow: 'hidden', background: '#111' }}>
-      {/* Logo fade-in/out */}
       {showLogo && (
         <div
           style={{
@@ -44,7 +42,7 @@ export default function GamePage() {
           }}
         >
           <img
-            src="/assets/NoBrakes/NoBrakesLogo1.png"
+            src="/assets/nobrakes/NoBrakesLogo1.png"
             alt="NoBrakes Logo"
             onClick={handleLogoClick}
             onMouseEnter={() => setHover(true)}
@@ -64,10 +62,8 @@ export default function GamePage() {
         </div>
       )}
 
-      {/* Pre-game modals */}
       {showPreGame && !showGame && (
         <>
-          {/* Center modal */}
           <div style={{
             position: 'absolute',
             top: '50%',
@@ -100,7 +96,6 @@ export default function GamePage() {
               }}
             >Play</button>
           </div>
-          {/* Left modal: car selection */}
           <div style={{
             position: 'absolute',
             top: '50%',
@@ -117,7 +112,6 @@ export default function GamePage() {
             <h2 style={{marginTop:0, fontSize:22}}>Select Car</h2>
             <div style={{marginTop:16, fontSize:16, opacity:0.7}}>[Car selection placeholder]</div>
           </div>
-          {/* Right modal: leaderboard */}
           <div style={{
             position: 'absolute',
             top: '50%',
@@ -137,10 +131,14 @@ export default function GamePage() {
         </>
       )}
 
-      {/* Game content only after Play is clicked */}
       {showGame && (
         <>
-          <Canvas camera={{ position: [0, 5, 10], fov: 60 }} style={{ width: '100vw', height: '100vh' }}>
+          <Canvas
+            camera={{ position: [0, 5, 10], fov: 60 }}
+            style={{ width: '100vw', height: '100vh' }}
+            fog={{ color: '#111', near: 18, far: 90 }}
+          >
+            <fog attach="fog" args={["#111", 18, 90]} />
             <ambientLight />
             <directionalLight position={[10, 10, 5]} />
             <Player />

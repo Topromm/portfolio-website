@@ -144,7 +144,7 @@ function contact() {
           <input
             type="text"
             name="name"
-            placeholder="Your Name"
+            placeholder="YOUR NAME"
             required
             style={{
               padding: '0.5rem',
@@ -157,7 +157,7 @@ function contact() {
           <input
             type="email"
             name="email"
-            placeholder="Your Email"
+            placeholder="YOUR EMAIL"
             required
             style={{
               padding: '0.5rem',
@@ -169,7 +169,7 @@ function contact() {
           />
           <textarea
             name="message"
-            placeholder="Your Message"
+            placeholder="YOUR MESSAGE"
             required
             style={{
               padding: '0.5rem',

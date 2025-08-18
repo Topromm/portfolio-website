@@ -48,7 +48,7 @@ body.dark-mode .navbar {
   background: linear-gradient(to right, #436674, #000000, #000000, #000000) !important;
 }
 body.light-mode .navbar2 {
-  background: linear-gradient(to right, #d1481f, #c45f30, #c5a56c, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3) !important;
+  background: linear-gradient(to right, rgb(209, 72, 31), #c45f30, #c5a56c, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3, #8fc8c3) !important;
 }
 body.dark-mode .navbar2 {
   background: #150740 !important;
