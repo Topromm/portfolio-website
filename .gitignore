@@ -27,3 +27,4 @@ dist-ssr
 public/assets/
 # But keep the folder itself (add a .gitkeep file if needed)
 !public/assets/.gitkeep
+
